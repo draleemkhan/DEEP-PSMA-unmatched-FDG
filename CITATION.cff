@@ -2,10 +2,9 @@ cff-version: 1.2.0
 message: "If you use this code, please cite it as below, and cite the DEEP-PSMA dataset."
 title: "Spatially unmatched FDG tumour burden in mCRPC (DEEP-PSMA): analysis code"
 version: 1.0.0
-date-released: "2026-11-30"   # update on release
+date-released: "2026-11-26"
 license: PolyForm-Noncommercial-1.0.0
-doi: "10.5281/zenodo.XXXXXXX"   # Zenodo DOI to be inserted
-repository-code: "https://github.com/OWNER/REPOSITORY"   # to be inserted
+repository-code: "https://github.com/draleemkhan/DEEP-PSMA-unmatched-FDG"
 authors:
   - family-names: Khan
     given-names: Muhammad Aleem
