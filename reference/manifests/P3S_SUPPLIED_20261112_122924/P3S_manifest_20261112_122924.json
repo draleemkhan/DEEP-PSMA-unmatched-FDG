@@ -1,0 +1,43 @@
+{
+  "stage": "P3S supplied-registration comparator (POST-HOC; FULL)",
+  "run": "20261112_122924",
+  "script": "P3_matching_classification_v1_14.m",
+  "script_md5": "f649836530e4a76d6edf9477d11ba1fd",
+  "inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_components_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_patients_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_components_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_consolidated_LOCKED_20261111.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_supplied_registration_comparator_note_20261112.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_SUPPLIED_conn26_20261112_122741\\P2_manifest_20261112_122741.json",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2b_SUPPLIED_conn26_20261112_122847\\P2b_manifest_20261112_122847.json",
+    "ffafbc7917e1b595eadacafab247fe88",
+    "f9b5b5908e523d1122547ef07d5c0afd",
+    "ac0048cfe059c714b3c293fbe7e88279",
+    "2f88309e1be6eff7c499c6c1d36b50ed",
+    "0c64711db1207e31a70cf3f558ccbd7d",
+    "ead22c1221bd993b2ce667d4d82ccadc",
+    "08d0d83f513c9b33b62305405cfe78f0",
+    "e1a6f57bb5c5d62cb9bdf29245323650"
+  ],
+  "p2_parent": "P2_SUPPLIED_conn26_20261112_122741",
+  "p2b_parent": "P2b_SUPPLIED_conn26_20261112_122847",
+  "gate": "components 3838/3838, patients 100/100; identity 1; status+cause identical 1; final category identical 1; max |d| difference 3.4e-13 mm; max patient-table difference 4.1e-12",
+  "fallback_gate": "fallback validation subset: 39 components in 3 patients (194.0 mL): status, cause and final distance identical: PASS",
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_SUPPLIED_20261112_122924\\P3S_patients_20261112_122924.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_SUPPLIED_20261112_122924\\P3S_components_20261112_122924.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_SUPPLIED_20261112_122924\\P3S_agreement_20261112_122924.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_SUPPLIED_20261112_122924\\P3S_summary_20261112_122924.txt",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_SUPPLIED_20261112_122924\\P3S_gate_20261112_122924.txt",
+    "ed39143d3649267dae802f92731845b4",
+    "669c65ceb6caca717e735860078f1722",
+    "9bc0191aac70fb84a11e863ab33d364d",
+    "733fb756873d3a1dd45371ca01f10533",
+    "307331c3987a4c9d93d6f13d227d4e97"
+  ],
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "runtime_s": 30,
+  "status": "COMPLETE"
+}

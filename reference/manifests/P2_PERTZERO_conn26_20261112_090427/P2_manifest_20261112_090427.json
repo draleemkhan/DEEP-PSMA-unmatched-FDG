@@ -1,0 +1,37 @@
+{
+  "stage": "P2 perturbation (parent)",
+  "mode": "FULL",
+  "level": "ZERO",
+  "n_perturbations": 1,
+  "n_patients": 100,
+  "run": "20261112_090427",
+  "script": "P2_mapping_coverage_resampling_v1_6.py",
+  "script_md5": "00604695e9f68a370fb2c174e74b01c4",
+  "inputs": {
+    "Amendment3_regional_rigid.py": "b21a405145526d56a59bb5950ef53acf",
+    "A3_visualQC_views_v1_2.py": "e8770c32865cf828ed27406a7fef6d9c",
+    "SAP_R1_region_rules.py": "beedabcfe956f3c9640a061b3855e867",
+    "Audit1C_e_per_patient_20261031_141128.csv": "c66da788a6c73737163b4c09ed76f494",
+    "Amendment3_transforms_20261102_073040.csv": "6dd27f366127d1941981489d57f0a99a",
+    "A3_visualQC_unblinded_20261108/A3_final_acceptance_per_region.csv": "225e4e673b31783e5bf1fa210b9bf42c",
+    "SAP_R1_plane_table_20261111_214952.csv": "db6fe2142e5c6fe7fe8ee6d8f9bc0f54",
+    "P1_20261111_233936/P1_components_20261111_233936.csv": "ffafbc7917e1b595eadacafab247fe88",
+    "P1_20261111_233936/P1_patients_20261111_233936.csv": "f9b5b5908e523d1122547ef07d5c0afd",
+    "A3_visualQC_KEY_do_not_open_20261105.csv": "c9a4548d3daf13d3e3dadc96171a9a94",
+    "StepSAP_consolidated_LOCKED_20261111.md": "0c64711db1207e31a70cf3f558ccbd7d",
+    "PET_correspondence_implementation_spec_LOCKED_20261111.md": "a5a2ec19d284deb44bc9ceebf8636658",
+    "StepSAP_perturbation_implementation_clarification_20261112.md": "5f280df40970eec504bb4f08d421d69d"
+  },
+  "sub_manifests": {
+    "k00": "112d7c10a0add4298098ea14923fb4e5"
+  },
+  "software": {
+    "python": "3.11.15",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "scipy": "1.17.1",
+    "SimpleITK": "2.5.6"
+  },
+  "runtime_s": 60,
+  "status": "COMPLETE"
+}

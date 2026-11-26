@@ -1,0 +1,94 @@
+{
+  "script": "FIG4_anatomy_v1_0.m",
+  "script_md5": "08dec46fdfa0ad067e34c74a3e6efde2",
+  "matlab_version": "25.1.0.2943329 (R2025a)",
+  "run_time": "2026-11-25 13:37:16",
+  "input": {
+    "file": "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\AD_20261112_125432\\AD_categories_20261112_125432.csv",
+    "md5": "93ff205be4d376dac760210015dbbaf5"
+  },
+  "self_tests": [
+    {
+      "name": "components, all rows",
+      "value": 217,
+      "expected": 217,
+      "pass": true
+    },
+    {
+      "name": "components, total row",
+      "value": 217,
+      "expected": 217,
+      "pass": true
+    },
+    {
+      "name": "volume 1dp, all rows",
+      "value": 144.9,
+      "expected": 144.9,
+      "pass": true
+    },
+    {
+      "name": "volume 1dp, total row",
+      "value": 144.9,
+      "expected": 144.9,
+      "pass": true
+    },
+    {
+      "name": "bone 1dp (three skeletal groups)",
+      "value": 115.5,
+      "expected": 115.5,
+      "pass": true
+    },
+    {
+      "name": "bone components",
+      "value": 153,
+      "expected": 153,
+      "pass": true
+    },
+    {
+      "name": "spine 1dp",
+      "value": 28.2,
+      "expected": 28.2,
+      "pass": true
+    },
+    {
+      "name": "other axial 1dp",
+      "value": 37.3,
+      "expected": 37.3,
+      "pass": true
+    },
+    {
+      "name": "shoulder/limbs 1dp",
+      "value": 49.9,
+      "expected": 49.9,
+      "pass": true
+    },
+    {
+      "name": "soft tissue 1dp",
+      "value": 25,
+      "expected": 25,
+      "pass": true
+    },
+    {
+      "name": "visceral 1dp",
+      "value": 3.9,
+      "expected": 3.9,
+      "pass": true
+    }
+  ],
+  "outputs": {
+    "figure": "Fig4",
+    "tif": "Fig4.tif",
+    "tif_md5": "0d9714383a14dee68739f11f8bdca147",
+    "tif_px": [
+      8231,
+      6142
+    ],
+    "tif_dpi": 1200,
+    "tif_colortype": "grayscale",
+    "tif_width_mm": 174.22283333333334,
+    "eps": "Fig4.eps",
+    "eps_md5": "a313dd07bf489635dc2e8ae951a9bf7a",
+    "pdf": "Fig4.pdf",
+    "pdf_md5": "e3895b2a97ba0706483549d2c66984c8"
+  }
+}

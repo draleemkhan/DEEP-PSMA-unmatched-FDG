@@ -1,0 +1,332 @@
+C:\Program Files\MATLAB\R2025a\bin\matlab.exe -batch cd('D:\DEEP PSMA\PAPER3_Discordance\02_code'); Audit1D_lesion_mask_audit
+
+Audit 1D started 26-Nov-2026 07:32:11
+Protocol: PAPER3_PSMA_FDG_discordance_protocol_v2.6
+Script: D:\DEEP PSMA\PAPER3_Discordance\02_code\Audit1D_lesion_mask_audit.m (MD5 dff2e2a2aa5754d083d489e20f9afb68)
+Data root: D:\DEEP PSMA\DEEP PSMA EXTRACTED
+Output: D:\DEEP PSMA\PAPER3_Discordance\06_output
+
+Case folders found: 100 (expected 100)
+
+[  1/100] train_0001
+   PSMA [OK]: TTB 57.2 mL | components 6/18/26: 30/28/28 | largest(26) 17.3 mL
+   FDG [OK]: TTB 5.3 mL | components 6/18/26: 5/4/4 | largest(26) 2.6 mL
+[  2/100] train_0002
+   PSMA [OK]: TTB 151.3 mL | components 6/18/26: 15/12/10 | largest(26) 94.4 mL
+   FDG [OK]: TTB 38.7 mL | components 6/18/26: 10/9/9 | largest(26) 19.4 mL
+[  3/100] train_0003
+   PSMA [OK]: TTB 279.3 mL | components 6/18/26: 10/10/10 | largest(26) 169.4 mL
+   FDG [OK]: TTB 91.3 mL | components 6/18/26: 47/27/25 | largest(26) 44.9 mL
+[  4/100] train_0004
+   PSMA [OK]: TTB 426.2 mL | components 6/18/26: 127/126/126 | largest(26) 45.9 mL
+   FDG [OK]: TTB 5.1 mL | components 6/18/26: 5/4/4 | largest(26) 4.1 mL
+[  5/100] train_0005
+   PSMA [OK]: TTB 1223.0 mL | components 6/18/26: 116/107/106 | largest(26) 265.5 mL
+   FDG [OK]: TTB 394.0 mL | components 6/18/26: 68/65/64 | largest(26) 77.8 mL
+[  6/100] train_0006
+   PSMA [OK]: TTB 2181.6 mL | components 6/18/26: 78/76/75 | largest(26) 1001.6 mL
+   FDG [OK]: TTB 4.5 mL | components 6/18/26: 33/29/29 | largest(26) 0.8 mL
+[  7/100] train_0007
+   PSMA [OK]: TTB 230.0 mL | components 6/18/26: 48/35/35 | largest(26) 62.7 mL
+   FDG [OK]: TTB 30.7 mL | components 6/18/26: 14/14/14 | largest(26) 20.7 mL
+[  8/100] train_0008
+   PSMA [OK]: TTB 300.3 mL | components 6/18/26: 80/73/73 | largest(26) 107.5 mL
+   FDG [OK]: TTB 6.9 mL | components 6/18/26: 12/10/10 | largest(26) 4.4 mL
+[  9/100] train_0009
+   PSMA [OK]: TTB 2318.7 mL | components 6/18/26: 175/140/135 | largest(26) 740.2 mL
+   FDG [OK]: TTB 947.5 mL | components 6/18/26: 167/139/133 | largest(26) 255.0 mL
+[ 10/100] train_0010
+   PSMA [OK]: TTB 119.7 mL | components 6/18/26: 3/2/2 | largest(26) 117.1 mL
+   FDG [OK]: TTB 83.0 mL | components 6/18/26: 1/1/1 | largest(26) 83.0 mL
+[ 11/100] train_0011
+   PSMA [OK]: TTB 112.2 mL | components 6/18/26: 13/8/8 | largest(26) 45.8 mL
+   FDG [OK]: TTB 61.2 mL | components 6/18/26: 14/7/7 | largest(26) 33.2 mL
+[ 12/100] train_0012
+   PSMA [OK]: TTB 3241.8 mL | components 6/18/26: 174/139/137 | largest(26) 2271.4 mL
+   FDG [OK]: TTB 896.0 mL | components 6/18/26: 188/155/148 | largest(26) 292.2 mL
+[ 13/100] train_0013
+   PSMA [OK]: TTB 98.1 mL | components 6/18/26: 7/7/7 | largest(26) 55.2 mL
+   FDG [OK]: TTB 16.8 mL | components 6/18/26: 5/5/5 | largest(26) 11.9 mL
+[ 14/100] train_0014
+   PSMA [OK]: TTB 991.8 mL | components 6/18/26: 50/50/50 | largest(26) 306.2 mL
+   FDG [OK]: TTB 613.2 mL | components 6/18/26: 42/35/34 | largest(26) 221.1 mL
+[ 15/100] train_0015
+   PSMA [OK]: TTB 1086.1 mL | components 6/18/26: 90/80/80 | largest(26) 476.0 mL
+   FDG [OK]: TTB 171.3 mL | components 6/18/26: 34/31/30 | largest(26) 127.3 mL
+[ 16/100] train_0016
+   PSMA [OK]: TTB 606.1 mL | components 6/18/26: 84/79/78 | largest(26) 356.3 mL
+   FDG [OK]: TTB 88.8 mL | components 6/18/26: 31/28/28 | largest(26) 70.4 mL
+[ 17/100] train_0017
+   PSMA [OK]: TTB 307.5 mL | components 6/18/26: 30/25/25 | largest(26) 126.7 mL
+   FDG [OK]: TTB 82.9 mL | components 6/18/26: 25/24/24 | largest(26) 35.0 mL
+[ 18/100] train_0018
+   PSMA [OK]: TTB 218.9 mL | components 6/18/26: 42/40/40 | largest(26) 45.2 mL
+   FDG [OK]: TTB 13.0 mL | components 6/18/26: 23/19/17 | largest(26) 3.7 mL
+[ 19/100] train_0019
+   PSMA [OK]: TTB 286.0 mL | components 6/18/26: 39/36/36 | largest(26) 164.1 mL
+   FDG [OK]: TTB 29.0 mL | components 6/18/26: 16/16/16 | largest(26) 12.3 mL
+[ 20/100] train_0020
+   PSMA [OK]: TTB 334.8 mL | components 6/18/26: 111/106/104 | largest(26) 44.0 mL
+   FDG [OK]: TTB 71.4 mL | components 6/18/26: 55/52/52 | largest(26) 13.5 mL
+[ 21/100] train_0021
+   PSMA [OK]: TTB 96.5 mL | components 6/18/26: 9/5/5 | largest(26) 43.1 mL
+   FDG [OK]: TTB 125.6 mL | components 6/18/26: 6/4/4 | largest(26) 53.8 mL
+[ 22/100] train_0022
+   PSMA [OK]: TTB 359.4 mL | components 6/18/26: 28/25/25 | largest(26) 139.2 mL
+   FDG [OK]: TTB 317.4 mL | components 6/18/26: 41/39/39 | largest(26) 124.0 mL
+[ 23/100] train_0023
+   PSMA [OK]: TTB 374.1 mL | components 6/18/26: 54/53/53 | largest(26) 99.6 mL
+   FDG [OK]: TTB 55.7 mL | components 6/18/26: 31/27/27 | largest(26) 25.3 mL
+[ 24/100] train_0024
+   PSMA [OK]: TTB 480.9 mL | components 6/18/26: 27/18/17 | largest(26) 348.2 mL
+   FDG [OK]: TTB 24.4 mL | components 6/18/26: 17/17/17 | largest(26) 6.6 mL
+[ 25/100] train_0025
+   PSMA [OK]: TTB 267.0 mL | components 6/18/26: 69/68/68 | largest(26) 85.3 mL
+   FDG [OK]: TTB 113.8 mL | components 6/18/26: 33/33/33 | largest(26) 53.4 mL
+[ 26/100] train_0026
+   PSMA [OK]: TTB 614.5 mL | components 6/18/26: 142/134/132 | largest(26) 375.5 mL
+   FDG [OK]: TTB 75.2 mL | components 6/18/26: 39/38/37 | largest(26) 28.4 mL
+[ 27/100] train_0027
+   PSMA [OK]: TTB 353.4 mL | components 6/18/26: 55/52/52 | largest(26) 50.4 mL
+   FDG [OK]: TTB 30.6 mL | components 6/18/26: 28/26/26 | largest(26) 10.3 mL
+[ 28/100] train_0028
+   PSMA [OK]: TTB 195.2 mL | components 6/18/26: 36/24/23 | largest(26) 91.8 mL
+   FDG [OK]: TTB 56.5 mL | components 6/18/26: 17/12/12 | largest(26) 24.6 mL
+[ 29/100] train_0029
+   PSMA [OK]: TTB 427.5 mL | components 6/18/26: 44/44/44 | largest(26) 151.0 mL
+   FDG [OK]: TTB 187.9 mL | components 6/18/26: 17/16/16 | largest(26) 73.0 mL
+[ 30/100] train_0030
+   PSMA [OK]: TTB 1561.2 mL | components 6/18/26: 126/104/99 | largest(26) 520.2 mL
+   FDG [OK]: TTB 1253.2 mL | components 6/18/26: 117/103/99 | largest(26) 393.8 mL
+[ 31/100] train_0031
+   PSMA [OK]: TTB 2161.7 mL | components 6/18/26: 218/207/202 | largest(26) 911.9 mL
+   FDG [OK]: TTB 238.1 mL | components 6/18/26: 75/70/69 | largest(26) 29.7 mL
+[ 32/100] train_0032
+   PSMA [OK]: TTB 214.6 mL | components 6/18/26: 34/31/30 | largest(26) 70.8 mL
+   FDG [OK]: TTB 53.3 mL | components 6/18/26: 14/13/13 | largest(26) 20.9 mL
+[ 33/100] train_0033
+   PSMA [OK]: TTB 457.4 mL | components 6/18/26: 24/20/18 | largest(26) 429.3 mL
+   FDG [OK]: TTB 224.0 mL | components 6/18/26: 9/7/7 | largest(26) 191.3 mL
+[ 34/100] train_0034
+   PSMA [OK]: TTB 1055.8 mL | components 6/18/26: 195/186/182 | largest(26) 227.1 mL
+   FDG [OK]: TTB 593.0 mL | components 6/18/26: 143/138/134 | largest(26) 210.7 mL
+[ 35/100] train_0035
+   PSMA [OK]: TTB 1165.1 mL | components 6/18/26: 206/187/181 | largest(26) 582.5 mL
+   FDG [OK]: TTB 433.0 mL | components 6/18/26: 128/103/99 | largest(26) 129.3 mL
+[ 36/100] train_0036
+   PSMA [OK]: TTB 806.9 mL | components 6/18/26: 52/44/44 | largest(26) 352.5 mL
+   FDG [OK]: TTB 697.2 mL | components 6/18/26: 53/36/35 | largest(26) 334.1 mL
+[ 37/100] train_0037
+   PSMA [OK]: TTB 954.3 mL | components 6/18/26: 95/79/77 | largest(26) 138.7 mL
+   FDG [OK]: TTB 171.0 mL | components 6/18/26: 79/69/68 | largest(26) 66.0 mL
+[ 38/100] train_0038
+   PSMA [OK]: TTB 117.2 mL | components 6/18/26: 39/34/34 | largest(26) 38.9 mL
+   FDG [OK]: TTB 50.8 mL | components 6/18/26: 13/13/13 | largest(26) 30.9 mL
+[ 39/100] train_0039
+   PSMA [OK]: TTB 2939.9 mL | components 6/18/26: 187/175/169 | largest(26) 1934.6 mL
+   FDG [OK]: TTB 1574.9 mL | components 6/18/26: 106/98/98 | largest(26) 445.2 mL
+[ 40/100] train_0040
+   PSMA [OK]: TTB 368.1 mL | components 6/18/26: 48/43/43 | largest(26) 100.1 mL
+   FDG [OK]: TTB 57.8 mL | components 6/18/26: 18/16/16 | largest(26) 27.5 mL
+[ 41/100] train_0041
+   PSMA [OK]: TTB 28.3 mL | components 6/18/26: 33/33/33 | largest(26) 7.1 mL
+   FDG [OK]: TTB 6.0 mL | components 6/18/26: 6/5/5 | largest(26) 4.1 mL
+[ 42/100] train_0042
+   PSMA [OK]: TTB 515.3 mL | components 6/18/26: 12/11/11 | largest(26) 385.7 mL
+   FDG [OK]: TTB 114.2 mL | components 6/18/26: 19/17/17 | largest(26) 75.7 mL
+[ 43/100] train_0043
+   PSMA [OK]: TTB 1497.4 mL | components 6/18/26: 169/162/156 | largest(26) 526.1 mL
+   FDG [OK]: TTB 83.3 mL | components 6/18/26: 71/60/57 | largest(26) 18.6 mL
+[ 44/100] train_0044
+   PSMA [OK]: TTB 678.8 mL | components 6/18/26: 160/138/127 | largest(26) 87.3 mL
+   FDG [OK]: TTB 116.3 mL | components 6/18/26: 97/80/78 | largest(26) 18.7 mL
+[ 45/100] train_0045
+   PSMA [OK]: TTB 129.3 mL | components 6/18/26: 28/25/25 | largest(26) 63.9 mL
+   FDG [OK]: TTB 26.6 mL | components 6/18/26: 2/2/2 | largest(26) 26.5 mL
+[ 46/100] train_0046
+   PSMA [OK]: TTB 214.5 mL | components 6/18/26: 59/57/56 | largest(26) 70.2 mL
+   FDG [OK]: TTB 104.9 mL | components 6/18/26: 32/29/29 | largest(26) 12.9 mL
+[ 47/100] train_0047
+   PSMA [OK]: TTB 2059.8 mL | components 6/18/26: 142/133/127 | largest(26) 758.3 mL
+   FDG [OK]: TTB 510.7 mL | components 6/18/26: 171/133/125 | largest(26) 224.7 mL
+[ 48/100] train_0048
+   PSMA [OK]: TTB 566.6 mL | components 6/18/26: 31/20/19 | largest(26) 100.9 mL
+   FDG [OK]: TTB 193.8 mL | components 6/18/26: 30/28/28 | largest(26) 36.4 mL
+[ 49/100] train_0049
+   PSMA [OK]: TTB 103.9 mL | components 6/18/26: 11/10/9 | largest(26) 37.6 mL
+   FDG [OK]: TTB 8.5 mL | components 6/18/26: 4/4/4 | largest(26) 4.7 mL
+[ 50/100] train_0050
+   PSMA [OK]: TTB 958.6 mL | components 6/18/26: 107/61/60 | largest(26) 671.7 mL
+   FDG [OK]: TTB 100.9 mL | components 6/18/26: 48/35/35 | largest(26) 50.2 mL
+[ 51/100] train_0051
+   PSMA [OK]: TTB 198.1 mL | components 6/18/26: 42/40/40 | largest(26) 103.2 mL
+   FDG [OK]: TTB 4.1 mL | components 6/18/26: 4/4/4 | largest(26) 3.4 mL
+[ 52/100] train_0052
+   PSMA [OK]: TTB 309.5 mL | components 6/18/26: 110/97/97 | largest(26) 35.6 mL
+   FDG [OK]: TTB 26.5 mL | components 6/18/26: 21/20/20 | largest(26) 16.5 mL
+[ 53/100] train_0053
+   PSMA [OK]: TTB 236.8 mL | components 6/18/26: 27/22/22 | largest(26) 160.5 mL
+   FDG [OK]: TTB 5.0 mL | components 6/18/26: 20/18/17 | largest(26) 1.6 mL
+[ 54/100] train_0054
+   PSMA [OK]: TTB 347.6 mL | components 6/18/26: 65/61/61 | largest(26) 45.2 mL
+   FDG [OK]: TTB 40.0 mL | components 6/18/26: 34/30/29 | largest(26) 8.2 mL
+[ 55/100] train_0055
+   PSMA [OK]: TTB 909.4 mL | components 6/18/26: 241/224/221 | largest(26) 109.4 mL
+   FDG [OK]: TTB 105.3 mL | components 6/18/26: 70/63/63 | largest(26) 12.6 mL
+[ 56/100] train_0056
+   PSMA [OK]: TTB 143.0 mL | components 6/18/26: 36/34/34 | largest(26) 79.8 mL
+   FDG [OK]: TTB 79.5 mL | components 6/18/26: 13/12/12 | largest(26) 56.8 mL
+[ 57/100] train_0057
+   PSMA [OK]: TTB 938.2 mL | components 6/18/26: 111/106/104 | largest(26) 438.7 mL
+   FDG [OK]: TTB 115.8 mL | components 6/18/26: 88/76/74 | largest(26) 15.4 mL
+[ 58/100] train_0058
+   PSMA [OK]: TTB 277.1 mL | components 6/18/26: 26/23/23 | largest(26) 186.6 mL
+   FDG [OK]: TTB 170.9 mL | components 6/18/26: 16/14/14 | largest(26) 137.5 mL
+[ 59/100] train_0059
+   PSMA [OK]: TTB 706.5 mL | components 6/18/26: 79/57/55 | largest(26) 427.0 mL
+   FDG [OK]: TTB 194.7 mL | components 6/18/26: 14/14/14 | largest(26) 179.3 mL
+[ 60/100] train_0060
+   PSMA [OK]: TTB 115.1 mL | components 6/18/26: 24/24/24 | largest(26) 35.9 mL
+   FDG [OK]: TTB 20.0 mL | components 6/18/26: 12/10/10 | largest(26) 9.9 mL
+[ 61/100] train_0061
+   PSMA [OK]: TTB 3410.2 mL | components 6/18/26: 126/99/93 | largest(26) 2999.3 mL
+   FDG [OK]: TTB 2001.0 mL | components 6/18/26: 194/161/149 | largest(26) 865.3 mL
+[ 62/100] train_0062
+   PSMA [OK]: TTB 3110.4 mL | components 6/18/26: 156/124/122 | largest(26) 1437.0 mL
+   FDG [OK]: TTB 421.9 mL | components 6/18/26: 96/82/77 | largest(26) 218.2 mL
+[ 63/100] train_0063
+   PSMA [OK]: TTB 335.5 mL | components 6/18/26: 89/88/87 | largest(26) 147.3 mL
+   FDG [OK]: TTB 4.0 mL | components 6/18/26: 7/7/7 | largest(26) 2.2 mL
+[ 64/100] train_0064
+   PSMA [OK]: TTB 3028.5 mL | components 6/18/26: 223/201/194 | largest(26) 2256.8 mL
+   FDG [OK]: TTB 63.9 mL | components 6/18/26: 111/94/87 | largest(26) 11.8 mL
+[ 65/100] train_0065
+   PSMA [OK]: TTB 1247.5 mL | components 6/18/26: 92/62/61 | largest(26) 738.7 mL
+   FDG [OK]: TTB 1123.5 mL | components 6/18/26: 75/46/40 | largest(26) 686.2 mL
+[ 66/100] train_0066
+   PSMA [OK]: TTB 474.0 mL | components 6/18/26: 177/174/172 | largest(26) 40.7 mL
+   FDG [OK]: TTB 36.5 mL | components 6/18/26: 55/50/50 | largest(26) 4.5 mL
+[ 67/100] train_0067
+   PSMA [OK]: TTB 1262.0 mL | components 6/18/26: 108/101/101 | largest(26) 390.9 mL
+   FDG [OK]: TTB 315.9 mL | components 6/18/26: 74/59/58 | largest(26) 46.7 mL
+[ 68/100] train_0068
+   PSMA [OK]: TTB 467.4 mL | components 6/18/26: 93/90/89 | largest(26) 243.3 mL
+   FDG [OK]: TTB 80.9 mL | components 6/18/26: 18/17/16 | largest(26) 34.3 mL
+[ 69/100] train_0069
+   PSMA [OK]: TTB 253.9 mL | components 6/18/26: 24/24/24 | largest(26) 153.3 mL
+   FDG [OK]: TTB 26.1 mL | components 6/18/26: 20/20/19 | largest(26) 16.2 mL
+[ 70/100] train_0070
+   PSMA [OK]: TTB 70.5 mL | components 6/18/26: 4/4/4 | largest(26) 32.0 mL
+   FDG [OK]: TTB 22.2 mL | components 6/18/26: 5/5/5 | largest(26) 15.7 mL
+[ 71/100] train_0071
+   PSMA [OK]: TTB 49.2 mL | components 6/18/26: 15/14/14 | largest(26) 25.2 mL
+   FDG [OK]: TTB 11.6 mL | components 6/18/26: 7/7/7 | largest(26) 9.2 mL
+[ 72/100] train_0072
+   PSMA [OK]: TTB 16.1 mL | components 6/18/26: 13/13/13 | largest(26) 3.3 mL
+   FDG [OK]: TTB 7.6 mL | components 6/18/26: 13/12/11 | largest(26) 2.0 mL
+[ 73/100] train_0073
+   PSMA [OK]: TTB 118.3 mL | components 6/18/26: 32/31/31 | largest(26) 27.6 mL
+   FDG [OK]: TTB 9.4 mL | components 6/18/26: 6/6/6 | largest(26) 5.4 mL
+[ 74/100] train_0074
+   PSMA [OK]: TTB 1658.3 mL | components 6/18/26: 211/203/198 | largest(26) 365.2 mL
+   FDG [OK]: TTB 457.3 mL | components 6/18/26: 103/84/84 | largest(26) 115.9 mL
+[ 75/100] train_0075
+   PSMA [OK]: TTB 519.9 mL | components 6/18/26: 71/38/35 | largest(26) 279.8 mL
+   FDG [OK]: TTB 10.7 mL | components 6/18/26: 16/12/11 | largest(26) 3.4 mL
+[ 76/100] train_0076
+   PSMA [OK]: TTB 110.6 mL | components 6/18/26: 12/7/7 | largest(26) 54.0 mL
+   FDG [OK]: TTB 29.8 mL | components 6/18/26: 5/5/5 | largest(26) 22.7 mL
+[ 77/100] train_0077
+   PSMA [OK]: TTB 1204.8 mL | components 6/18/26: 161/124/120 | largest(26) 307.6 mL
+   FDG [OK]: TTB 336.3 mL | components 6/18/26: 98/90/90 | largest(26) 101.8 mL
+[ 78/100] train_0078
+   PSMA [OK]: TTB 2110.3 mL | components 6/18/26: 152/126/124 | largest(26) 980.4 mL
+   FDG [OK]: TTB 637.6 mL | components 6/18/26: 125/103/100 | largest(26) 206.7 mL
+[ 79/100] train_0079
+   PSMA [OK]: TTB 247.5 mL | components 6/18/26: 27/18/16 | largest(26) 152.5 mL
+   FDG [OK]: TTB 61.1 mL | components 6/18/26: 9/8/8 | largest(26) 45.4 mL
+[ 80/100] train_0080
+   PSMA [OK]: TTB 106.7 mL | components 6/18/26: 7/7/6 | largest(26) 92.0 mL
+   FDG [OK]: TTB 26.5 mL | components 6/18/26: 6/6/6 | largest(26) 12.6 mL
+[ 81/100] train_0081
+   PSMA [OK]: TTB 40.1 mL | components 6/18/26: 13/13/13 | largest(26) 8.4 mL
+   FDG [OK]: TTB 7.3 mL | components 6/18/26: 12/10/10 | largest(26) 2.5 mL
+[ 82/100] train_0082
+   PSMA [OK]: TTB 746.8 mL | components 6/18/26: 35/25/25 | largest(26) 466.7 mL
+   FDG [OK]: TTB 446.5 mL | components 6/18/26: 17/16/15 | largest(26) 336.1 mL
+[ 83/100] train_0083
+   PSMA [OK]: TTB 238.0 mL | components 6/18/26: 30/30/30 | largest(26) 90.9 mL
+   FDG [OK]: TTB 95.2 mL | components 6/18/26: 16/16/16 | largest(26) 59.8 mL
+[ 84/100] train_0084
+   PSMA [OK]: TTB 216.1 mL | components 6/18/26: 32/26/26 | largest(26) 155.3 mL
+   FDG [OK]: TTB 60.7 mL | components 6/18/26: 33/25/23 | largest(26) 53.5 mL
+[ 85/100] train_0085
+   PSMA [OK]: TTB 372.1 mL | components 6/18/26: 25/8/8 | largest(26) 349.0 mL
+   FDG [OK]: TTB 149.7 mL | components 6/18/26: 19/19/17 | largest(26) 64.5 mL
+[ 86/100] train_0086
+   PSMA [OK]: TTB 1144.9 mL | components 6/18/26: 63/63/63 | largest(26) 330.0 mL
+   FDG [OK]: TTB 345.8 mL | components 6/18/26: 51/47/46 | largest(26) 127.8 mL
+[ 87/100] train_0087
+   PSMA [OK]: TTB 64.7 mL | components 6/18/26: 19/17/16 | largest(26) 19.7 mL
+   FDG [OK]: TTB 2.0 mL | components 6/18/26: 5/2/2 | largest(26) 1.8 mL
+[ 88/100] train_0088
+   PSMA [OK]: TTB 68.8 mL | components 6/18/26: 8/8/8 | largest(26) 44.2 mL
+   FDG [OK]: TTB 6.5 mL | components 6/18/26: 4/3/3 | largest(26) 3.1 mL
+[ 89/100] train_0089
+   PSMA [OK]: TTB 2197.0 mL | components 6/18/26: 170/149/140 | largest(26) 1553.3 mL
+   FDG [OK]: TTB 476.2 mL | components 6/18/26: 146/141/135 | largest(26) 62.0 mL
+[ 90/100] train_0090
+   PSMA [OK]: TTB 453.1 mL | components 6/18/26: 259/238/235 | largest(26) 102.0 mL
+   FDG [OK]: TTB 13.0 mL | components 6/18/26: 24/22/22 | largest(26) 2.7 mL
+[ 91/100] train_0091
+   PSMA [OK]: TTB 191.5 mL | components 6/18/26: 28/22/21 | largest(26) 46.3 mL
+   FDG [OK]: TTB 95.3 mL | components 6/18/26: 17/16/16 | largest(26) 36.5 mL
+[ 92/100] train_0092
+   PSMA [OK]: TTB 764.2 mL | components 6/18/26: 96/89/87 | largest(26) 234.3 mL
+   FDG [OK]: TTB 444.5 mL | components 6/18/26: 78/68/63 | largest(26) 94.4 mL
+[ 93/100] train_0093
+   PSMA [OK]: TTB 1093.4 mL | components 6/18/26: 134/124/121 | largest(26) 321.8 mL
+   FDG [OK]: TTB 675.0 mL | components 6/18/26: 165/142/136 | largest(26) 128.9 mL
+[ 94/100] train_0094
+   PSMA [OK]: TTB 3327.0 mL | components 6/18/26: 137/122/120 | largest(26) 1870.6 mL
+   FDG [OK]: TTB 2402.4 mL | components 6/18/26: 129/107/103 | largest(26) 1148.3 mL
+[ 95/100] train_0095
+   PSMA [OK]: TTB 365.5 mL | components 6/18/26: 29/22/22 | largest(26) 318.5 mL
+   FDG [OK]: TTB 219.2 mL | components 6/18/26: 10/9/9 | largest(26) 208.1 mL
+[ 96/100] train_0096
+   PSMA [OK]: TTB 1499.6 mL | components 6/18/26: 142/131/128 | largest(26) 790.8 mL
+   FDG [OK]: TTB 563.0 mL | components 6/18/26: 113/103/101 | largest(26) 167.7 mL
+[ 97/100] train_0097
+   PSMA [OK]: TTB 142.4 mL | components 6/18/26: 81/73/72 | largest(26) 49.6 mL
+   FDG [OK]: TTB 3.5 mL | components 6/18/26: 1/1/1 | largest(26) 3.5 mL
+[ 98/100] train_0098
+   PSMA [OK]: TTB 1882.6 mL | components 6/18/26: 233/195/183 | largest(26) 627.7 mL
+   FDG [OK]: TTB 173.7 mL | components 6/18/26: 131/113/112 | largest(26) 28.9 mL
+[ 99/100] train_0099
+   PSMA [OK]: TTB 89.9 mL | components 6/18/26: 23/19/18 | largest(26) 24.7 mL
+   FDG [OK]: TTB 21.1 mL | components 6/18/26: 15/11/11 | largest(26) 12.9 mL
+[100/100] train_0100
+   PSMA [OK]: TTB 735.8 mL | components 6/18/26: 29/27/27 | largest(26) 616.4 mL
+   FDG [OK]: TTB 21.7 mL | components 6/18/26: 8/8/8 | largest(26) 18.2 mL
+
+===== SUMMARY =====
+PSMA  6-conn: components/patient median 53 (range 3-259) | total components 7902 | median TTB in components <=9 voxels 0.46%
+PSMA 18-conn: components/patient median 47 (range 2-238) | total components 6999 | median TTB in components <=9 voxels 0.35%
+PSMA 26-conn: components/patient median 47 (range 2-235) | total components 6841 | median TTB in components <=9 voxels 0.33%
+PSMA merges 6->26: median % TTB volume in merges 41.56 (max 97.82); median count reduction 6
+PSMA merges 6->18: median % TTB volume in merges 32.12 (max 97.82); median count reduction 5
+PSMA merges 18->26: median % TTB volume in merges 0.03 (max 93.86); median count reduction 1
+FDG   6-conn: components/patient median 22 (range 1-194) | total components 4588 | median TTB in components <=9 voxels 1.77%
+FDG  18-conn: components/patient median 20 (range 1-161) | total components 3959 | median TTB in components <=9 voxels 1.64%
+FDG  26-conn: components/patient median 19.5 (range 1-149) | total components 3838 | median TTB in components <=9 voxels 1.63%
+FDG  merges 6->26: median % TTB volume in merges 15.14 (max 97.75); median count reduction 2
+FDG  merges 6->18: median % TTB volume in merges 10.43 (max 97.75); median count reduction 2
+FDG  merges 18->26: median % TTB volume in merges 0.00 (max 88.36); median count reduction 0
+Large components examined anatomically: 1234 (spanning >= 2 labelled groups: 354; automated observation)
+Elapsed: 9.7 min
+
+=================================================================
+AUDIT 1D RUN STATUS: COMPLETE
+Patients found 100 / expected 100 | tracer examinations OK 200, PARTIAL 0, FAILED 0 / expected 200
+=================================================================
+Outputs written to D:\DEEP PSMA\PAPER3_Discordance\06_output (timestamp 20261126_073207)

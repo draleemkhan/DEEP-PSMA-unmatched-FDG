@@ -1,0 +1,67 @@
+order,run_name,kind,lang,script,args,exclude,notes
+1,20261029_134401,flat,m_script,Audit1B_totalsegmentator_labels.m,,,CT label verification
+2,20261029_212531,flat,py,Audit1C_c_rigid_refinement.py,,,structure-level residuals
+3,20261030_215034,flat,m_script,Audit1D_lesion_mask_audit.m,,,tumour-mask components and grid geometry
+4,20261031_141128,flat,py,Audit1C_e_translation_refinement.py,,,trunk translation correction T_A
+5,20261031_164711,flat,py,Audit1C_f_vascular_muscular_QC.py,,,region boundaries
+6,20261102_073040,flat,py,Amendment3_regional_rigid.py,,,regional head and pelvic refinement (about 6 h originally)
+7,A3_visualQC_unblinded_20261108,argdir,py,A3_visualQC_unblinded_analysis.py,{OUT} {OUT}/A3_visualQC_unblinded_20261108/Phase1_register_parsed_from_final_PDF_20261105.csv {NEWDIR},Phase1_register_parsed_from_final_PDF_20261105.csv,QC decisions from published reader records; regenerates A3_final_acceptance_per_region.csv
+8,A3_visualQC_second_reader_20261109,argdir,py,A3_second_reader_comparison.py,{OUT}/A3_visualQC_second_reader_20261109/A3_second_reader_checklist_pdftotext_20261109.txt {OUT}/A3_visualQC_KEY_SR_do_not_open_20261108.csv {OUT}/A3_visualQC_unblinded_20261108/A3_final_acceptance_per_region.csv {NEWDIR},A3_second_reader_checklist_pdftotext_20261109.txt,second-reader agreement
+9,Trunk_QC_unblinded_20261111,argfile,py,Trunk_QC_unblinding_decode.py,{OUT}/Trunk_QC_unblinded_20261111/Trunk_QC_checklist_pdftotext_20261111.txt {OUT}/Trunk_QC_KEY_do_not_open_20261109.csv {NEWDIR}/Trunk_QC_decoded_grades_20261111.csv,Trunk_QC_checklist_pdftotext_20261111.txt,trunk QC decoding
+10,20261111_214952,flat,py,SAP_R1_region_rules.py,--planes,,region rules plane table
+11,Tau_validation_20261111,argdir,py,Tau_validation.py,{OUT}/Audit1D_grid_geometry_20261030_215034.csv {NEWDIR},,matching tolerance validation
+12,20261111_232613,flat,py,O1_organ_displacement.py,,,organ displacement
+13,P1_20261111_233936,folder,py,P1_native_fdg_components.py,,,native FDG components
+14,P2_conn26_20261111_235603,folder,py,P2_mapping_coverage_resampling_v1_1.py,--conn 26,,primary P2
+15,P2b_conn26_20261112_000903,folder,py,P2b_export_voxelsets_csv.py,,,primary P2b
+16,P3_conn26_20261112_001915,folder,m_func,P3_matching_classification_v1_4.m,"('full','P2b_conn26_20261112_000903')",,primary P3
+17,P3V_conn26_20261112_002845,folder,m_func,P3V_voxel_level_v1_0.m,"('full','P2b_conn26_20261112_000903')",,voxel-level
+18,P3T_ref_conn26_20261112_003908,folder,m_func,P3_matching_classification_v1_5.m,"('reproduce','P2b_conn26_20261112_000903')",,tau reference gate
+19,P3T_strict_conn26_20261112_003925,folder,m_func,P3_matching_classification_v1_5.m,"('tau','P2b_conn26_20261112_000903','strict')",,tau strict
+20,P3T_perm_conn26_20261112_003954,folder,m_func,P3_matching_classification_v1_5.m,"('tau','P2b_conn26_20261112_000903','perm')",,tau permissive
+21,P2_conn18_20261112_004353,folder,py,P2_mapping_coverage_resampling_v1_1.py,--conn 18,,
+22,P2_conn6_20261112_004502,folder,py,P2_mapping_coverage_resampling_v1_1.py,--conn 6,,
+23,P2b_conn18_20261112_004628,folder,py,P2b_export_voxelsets_csv_v1_1.py,--p2dir P2_conn18_20261112_004353,,
+24,P2b_conn6_20261112_004631,folder,py,P2b_export_voxelsets_csv_v1_1.py,--p2dir P2_conn6_20261112_004502,,
+25,P3C_conn18_20261112_004711,folder,m_func,P3_matching_classification_v1_6.m,"('conn','P2b_conn26_20261112_000903',18,'P2_conn18_20261112_004353','P2b_conn18_20261112_004628')",,
+26,P3C_conn6_20261112_004741,folder,m_func,P3_matching_classification_v1_6.m,"('conn','P2b_conn26_20261112_000903',6,'P2_conn6_20261112_004502','P2b_conn6_20261112_004631')",,
+27,P2_S1_conn26_20261112_005214,folder,py,P2_mapping_coverage_resampling_v1_2.py,--scenario S1,,
+28,P2_S2_conn26_20261112_005330,folder,py,P2_mapping_coverage_resampling_v1_2.py,--scenario S2,,
+29,P2_S4_conn26_20261112_005439,folder,py,P2_mapping_coverage_resampling_v1_2.py,--scenario S4,,
+30,P2b_S1_conn26_20261112_005635,folder,py,P2b_export_voxelsets_csv_v1_2.py,--p2dir P2_S1_conn26_20261112_005214,,
+31,P2b_S2_conn26_20261112_005638,folder,py,P2b_export_voxelsets_csv_v1_2.py,--p2dir P2_S2_conn26_20261112_005330,,
+32,P2b_S4_conn26_20261112_005905,folder,py,P2b_export_voxelsets_csv_v1_2.py,--p2dir P2_S4_conn26_20261112_005439,,
+33,P3S_EB_20261112_005937,folder,m_func,P3_matching_classification_v1_7.m,"('elig','P2b_conn26_20261112_000903')",,
+34,P3S_S1_20261112_010017,folder,m_func,P3_matching_classification_v1_7.m,"('scenario','P2b_conn26_20261112_000903','S1','P2_S1_conn26_20261112_005214','P2b_S1_conn26_20261112_005635')",,
+35,P3S_S2_20261112_010111,folder,m_func,P3_matching_classification_v1_7.m,"('scenario','P2b_conn26_20261112_000903','S2','P2_S2_conn26_20261112_005330','P2b_S2_conn26_20261112_005638')",,
+36,P3S_S4_20261112_010156,folder,m_func,P3_matching_classification_v1_7.m,"('scenario','P2b_conn26_20261112_000903','S4','P2_S4_conn26_20261112_005439','P2b_S4_conn26_20261112_005905')",,
+37,P2_S3b_conn26_20261112_051428,folder,py,P2_mapping_coverage_resampling_v1_3.py,--scenario S3b,,
+38,P2_S3c_conn26_20261112_051542,folder,py,P2_mapping_coverage_resampling_v1_3.py,--scenario S3c,,
+39,P2b_S3b_conn26_20261112_051731,folder,py,P2b_export_voxelsets_csv_v1_3.py,--p2dir P2_S3b_conn26_20261112_051428,,
+40,P2b_S3c_conn26_20261112_051734,folder,py,P2b_export_voxelsets_csv_v1_3.py,--p2dir P2_S3c_conn26_20261112_051542,,
+41,P3S_S3b_20261112_060859,folder,m_func,P3_matching_classification_v1_8.m,"('scenario','P2b_conn26_20261112_000903','S3b','P2_S3b_conn26_20261112_051428','P2b_S3b_conn26_20261112_051731')",,
+42,P3S_S3c_20261112_060928,folder,m_func,P3_matching_classification_v1_8.m,"('scenario','P2b_conn26_20261112_000903','S3c','P2_S3c_conn26_20261112_051542','P2b_S3c_conn26_20261112_051734')",,
+43,ST2a_20261112_072150,folder,py,ST2a_organ_intersection.py,,,
+44,P3S_ST2_20261112_072438,folder,m_func,P3_matching_classification_v1_9.m,"('st2','P2b_conn26_20261112_000903','ST2a_20261112_072150')",,
+45,ST2_overlap_audit_20261112_043246,folder,py,ST2_overlap_audit.py,{OUT},,originally run in a Linux environment (Python 3.10.12; time stamp in UTC)
+46,P3T_ovl_conn26_20261112_073943,folder,m_func,P3_matching_classification_v1_10.m,"('ovl','P2b_conn26_20261112_000903')",,
+47,ST1_20261112_080558,folder,m_func,ST1_association_v1_0.m,"('run')",,
+48,PERT_perturbations_20261112_082222,folder,m_func,PERT_generate_v1_0.m,"('run')",,
+49,P2_PERT_L1_conn26_20261112_090310,folder,py,P2_mapping_coverage_resampling_v1_6.py,--pertdir PERT_perturbations_20261112_082222 --level L1,,
+50,P2_PERTZERO_conn26_20261112_090427,folder,py,P2_mapping_coverage_resampling_v1_6.py,--pertzero,,
+51,P2_PERT_L2_conn26_20261112_090539,folder,py,P2_mapping_coverage_resampling_v1_6.py,--pertdir PERT_perturbations_20261112_082222 --level L2,,
+52,P2b_PERTZERO_conn26_20261112_090804,folder,py,P2b_export_voxelsets_csv_v1_6.py,--p2pert P2_PERTZERO_conn26_20261112_090427,,
+53,P3P_ZERO_20261112_090859,folder,m_func,P3_matching_classification_v1_13.m,"('pertzero','P2b_conn26_20261112_000903','P2_PERTZERO_conn26_20261112_090427','P2b_PERTZERO_conn26_20261112_090804')",,
+54,P2b_PERT_L1_conn26_20261112_100710,folder,py,P2b_export_voxelsets_csv_v1_6.py,--p2pert P2_PERT_L1_conn26_20261112_090310,,
+55,P2b_PERT_L2_conn26_20261112_100720,folder,py,P2b_export_voxelsets_csv_v1_6.py,--p2pert P2_PERT_L2_conn26_20261112_090539,,
+56,P3P_L1_20261112_101030,folder,m_func,P3_matching_classification_v1_13.m,"('pert','P2b_conn26_20261112_000903','P2_PERT_L1_conn26_20261112_090310','P2b_PERT_L1_conn26_20261112_100710')",,
+57,P3P_L2_20261112_103235,folder,m_func,P3_matching_classification_v1_13.m,"('pert','P2b_conn26_20261112_000903','P2_PERT_L2_conn26_20261112_090539','P2b_PERT_L2_conn26_20261112_100720')",,
+58,PU_20261112_115324,folder,py,PU_psma_uptake_v1_0.py,,,
+59,PX_20261112_121119,folder,py,PX_crosstab_stability_uptake_v1_0.py,,,
+60,P2_SUPPLIED_conn26_20261112_122741,folder,py,P2_mapping_coverage_resampling_v1_7.py,--supplied,,
+61,P2b_SUPPLIED_conn26_20261112_122847,folder,py,P2b_export_voxelsets_csv_v1_7.py,--p2pert P2_SUPPLIED_conn26_20261112_122741,,
+62,P3S_SUPPLIED_20261112_122924,folder,m_func,P3_matching_classification_v1_14.m,"('supplied','P2b_conn26_20261112_000903','P2_SUPPLIED_conn26_20261112_122741','P2b_SUPPLIED_conn26_20261112_122847')",,
+63,AD_20261112_125432,folder,py,AD_anatomical_distribution_v1_0.py,,,
+64,FIG_20261125_123846,folder,m_func,FIG_paper3_figures_v1_1.m,,,figures 1-3
+65,A3_kappa_20261125_125041,folder,m_func,A3_intrareader_kappa_v1_0.m,,,intra-reader kappa
+66,FIG4_20261125_133709,folder,m_func,FIG4_anatomy_v1_0.m,,,figure 4

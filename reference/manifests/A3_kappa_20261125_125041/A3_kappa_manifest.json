@@ -1,0 +1,95 @@
+{
+  "script": "A3_intrareader_kappa_v1_0.m",
+  "script_md5": "b4e2aac884425c17a4877e1216ae5304",
+  "matlab_version": "25.1.0.2943329 (R2025a)",
+  "run_time": "2026-11-25 12:50:41",
+  "input": {
+    "file": "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\A3_visualQC_unblinded_20261108\\A3_repeat_pairs.csv",
+    "md5": "b10920ee2a62af34bd7e8795fdcd8c81"
+  },
+  "weights_note": "Plan did not specify kappa weights; linear = main value (decision 25 Nov 2026); quadratic for completeness.",
+  "checks": [
+    {
+      "name": "perfect agreement, unweighted",
+      "value": 1,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "name": "textbook 2x2 [20 5; 10 15], unweighted",
+      "value": 0.4,
+      "expected": 0.4,
+      "pass": true
+    },
+    {
+      "name": "3x3 linear equals unweighted for 2 used categories",
+      "value": 0.4,
+      "expected": 0.4,
+      "pass": true
+    },
+    {
+      "name": "constant rater gives 0",
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "name": "pelvis A2 exact",
+      "value": 14,
+      "expected": 14,
+      "pass": true
+    },
+    {
+      "name": "pelvis A3a exact",
+      "value": 16,
+      "expected": 16,
+      "pass": true
+    },
+    {
+      "name": "pelvis pref exact",
+      "value": 14,
+      "expected": 14,
+      "pass": true
+    },
+    {
+      "name": "pelvis A2 linear kappa 3dp",
+      "value": 0.679,
+      "expected": 0.679,
+      "pass": true
+    },
+    {
+      "name": "pelvis A2 quadratic 3dp",
+      "value": 0.718,
+      "expected": 0.718,
+      "pass": true
+    },
+    {
+      "name": "pelvis A3a linear kappa",
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "name": "pelvis pref kappa 3dp",
+      "value": 0.617,
+      "expected": 0.617,
+      "pass": true
+    },
+    {
+      "name": "head all exact (3 of 3)",
+      "value": true,
+      "expected": true,
+      "pass": true
+    }
+  ],
+  "outputs": [
+    {
+      "file": "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\A3_kappa_20261125_125041\\A3_intrareader_agreement.csv",
+      "md5": "284b916f98cc391b6cc17798c637e838"
+    },
+    {
+      "file": "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\A3_kappa_20261125_125041\\A3_intrareader_contingency.txt",
+      "md5": "2c9c3ca86b1a92028002a85dd8953712"
+    }
+  ]
+}

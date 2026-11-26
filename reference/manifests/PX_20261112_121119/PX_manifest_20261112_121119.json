@@ -1,0 +1,28 @@
+{
+  "stage": "PX exploratory cross-tabulation (post-hoc, documented before results)",
+  "run": "20261112_121119",
+  "script": "PX_crosstab_stability_uptake_v1_0.py",
+  "script_md5": "adb80409a41efdd188b6c53bfcf5ff2b",
+  "inputs": {
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\PU_20261112_115324\\PU_components_20261112_115324.csv": "790db257935376785e5753ddd136d0eb",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\PU_20261112_115324\\PU_manifest_20261112_115324.json": "a7f16d8d9f8fdd0bedf5a4adfc9b4d06",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3P_L1_20261112_101030\\P3P_L1_components_20261112_101030.csv": "6d93c52c4617dd1ea44600e2f29431f3",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3P_L2_20261112_103235\\P3P_L2_components_20261112_103235.csv": "9df0305d6dfb6e747ccfe7f285838763",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\PAPER3_exploratory_crosstab_note_20261112.md": "49b96844777d91a8f967256928d638b6"
+  },
+  "params": {
+    "NPERT": 50,
+    "STABLE_MIN": 48
+  },
+  "software": {
+    "python": "3.11.15",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0"
+  },
+  "outputs": {
+    "PX_components_20261112_121119.csv": "4841ea384c5711b58e36608556b5ab80",
+    "PX_crosstab_20261112_121119.csv": "e77f9d6eda9db1b5635e62674fd276e9",
+    "PX_summary_20261112_121119.txt": "761864ad8172ec3e2fe106d138628e32"
+  },
+  "status": "COMPLETE"
+}

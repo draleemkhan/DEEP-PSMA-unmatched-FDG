@@ -1,0 +1,221 @@
+code,region,grade_X,grade_Y,preference,C1C2_X,C1C2_Y,jaw,neck,skullbase,extra_views,row_text,adjacent_text
+VR001,head,2,3,Y,o,a,s,n,y,,minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR001
+VR001,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | Right hip prosthesis,"sacrum, si joints and acetabula | aligned"
+VR002,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR002
+VR002,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned,"sacrum, si joints and acetabula | aligned"
+VR003,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR003
+VR003,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor sacral mismatch,
+VR004,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR004
+VR004,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR005,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR005
+VR005,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR006,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR006
+VR006,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned | Right total hip arthroplasty,
+VR007,head,NA,NA,NA,,,,,,,Upper half of vault cut on FDG CT | Insufficient anatomical coverage to judge alignment,Upper half of vault cut on FDG | VR007                                                                                                      CT
+VR007,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned,"sacrum, si joints and acetabula | aligned"
+VR008,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR008
+VR008,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR009,head,2,3,Y,o,a,s,n,y,,minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR009
+VR009,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR010,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR010
+VR010,pelvis,2,3,Y,,,,,,,Minor acetabulum mismatch | all pelvic landmarks aligned,
+VR011,head,NA,NA,NA,,,,,,,Upper half of vault cut on FDG CT Upper half of vault cut on FDG CT | Insufficient anatomical coverage to judge alignment,VR011
+VR011,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR012,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR012
+VR012,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR013,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR013
+VR013,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR014,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR014
+VR014,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR015,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR015
+VR015,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR016,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR016
+VR016,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR017,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR017
+VR017,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR018,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR018
+VR018,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR019,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR019
+VR019,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR020,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR020
+VR020,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR021,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y | Minor mandible offset,VR021
+VR021,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR022,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR022
+VR022,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR023,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y | Minor mandible offset,VR023
+VR023,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR024,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR024
+VR024,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR025,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR025
+VR025,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR026,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR026
+VR026,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR027,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR027
+VR027,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR028,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR028
+VR028,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR029,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR029
+VR029,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR030,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR030
+VR030,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR031,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR031
+VR031,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR032,head,NA,NA,NA,,,,,,,Upper half of vault cut on FDG CT Upper half of vault cut on FDG CT | Insufficient anatomical coverage to judge alignment,VR032
+VR032,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR033,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR033
+VR033,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR034,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR034
+VR034,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR035,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR035
+VR035,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR036,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR036
+VR036,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR037,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR037
+VR037,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR038,head,NA,NA,NA,,,,,,,Upper half of vault cut on FDG CT Upper half of vault cut on FDG CT | Insufficient anatomical coverage to judge alignment,VR038
+VR038,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR039,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR039
+VR039,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR040,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR040
+VR040,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR041,head,NA,NA,NA,,,,,,,Upper half of vault cut on FDG CT | Insufficient anatomical coverage to judge alignment,Upper ¾ of vault cut on both | VR041                                                      PSMA and FDG CT
+VR041,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR042,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR042
+VR042,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR043,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y | Minor mandible offset,VR043
+VR043,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR044,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR044
+VR044,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR045,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR045
+VR045,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR046,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR046
+VR046,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR047,head,NA,NA,NA,,,,,,,Upper half of vault cut on FDG CT Upper half of vault cut on FDG CT | Insufficient anatomical coverage to judge alignment,VR047
+VR047,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR048,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR048
+VR048,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR049,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR049
+VR049,pelvis,3,1,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and definite | acetabulum mismatch
+VR050,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR050
+VR050,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR051,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR051
+VR051,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR052,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR052
+VR052,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Bilateral hip prosthesis,Minor sacrum and acetabulum | mismatch
+VR053,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR053
+VR053,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR054,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR054
+VR054,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR055,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR055
+VR055,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR056,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR056
+VR056,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR057,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR057
+VR057,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR058,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR058
+VR058,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR059,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR059
+VR059,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor sacrum mismatch,
+VR060,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR060
+VR060,pelvis,3,1,X,,,,,,,all pelvic landmarks aligned,Definite sacrum and acetabulum | mismatch
+VR061,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR061
+VR061,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned | Left hip prosthesis,
+VR062,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR062
+VR062,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR063,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR063
+VR063,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR064,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR064
+VR064,pelvis,3,1,X,,,,,,,all pelvic landmarks aligned,Definite sacrum and acetabulum | mismatch
+VR065,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR065
+VR065,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR066,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR066
+VR066,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR067,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR067
+VR067,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR068,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR068
+VR068,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor sacrum mismatch,
+VR069,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR069
+VR069,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR070,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR070
+VR070,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR071,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR071
+VR071,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR072,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR072
+VR072,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned | Right hip prothesis,
+VR073,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y | Minor mandible offset,VR073
+VR073,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR074,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR074
+VR074,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR075,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR075
+VR075,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR076,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR076
+VR076,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR077,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR077
+VR077,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR078,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR078
+VR078,pelvis,2,3,Y,,,,,,,Minor acetabulum mismatch | all pelvic landmarks aligned,
+VR079,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR079
+VR079,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR080,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y | mild mandible offset,VR080
+VR080,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR081,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR081
+VR081,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR082,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR082
+VR082,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR083,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR083
+VR083,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR084,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR084
+VR084,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR085,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR085
+VR085,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR086,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR086
+VR086,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR087,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR087
+VR087,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR088,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR088
+VR088,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR089,head,2,3,Y,o,a,s,n,y,,Minor cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR089
+VR089,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR090,head,3,3,equivalent,a,a,s,n,y,,vault and skull base aligned | vault and skull base aligned | a | a | s | n | y,VR090
+VR090,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR091,head,3,3,equivalent,a,a,s,n,y,,vault and skull base aligned | vault and skull base aligned | a | a | s | n | y,VR091
+VR091,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR092,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR092
+VR092,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR093,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR093
+VR093,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR094,head,3,3,equivalent,a,a,s,n,y,,vault and skull base aligned | vault and skull base aligned | a | a | s | n | y,VR094
+VR094,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR095,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR095
+VR095,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR096,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR096
+VR096,pelvis,2,3,Y,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR097,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR097
+VR097,pelvis,1,3,Y,,,,,,,all pelvic landmarks aligned,definite sacrum and acetabulum | mismatch
+VR098,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,VR098
+VR098,pelvis,2,3,Y,,,,,,,Minor acetabulum mismatch | all pelvic landmarks aligned,
+VR099,head,3,2,X,a,o,s,n,y,,vault and skull base aligned | Minor cranial vault mismatch | a | o | s | n | y,VR099
+VR099,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR100,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,VR100
+VR100,pelvis,1,3,Y,,,,,,,all pelvic landmarks aligned,definite sacrum and acetabulum | mismatch
+VR101,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR102,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR103,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR104,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR105,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR106,pelvis,2,3,Y,,,,,,,Minor acetabulum mismatch | all pelvic landmarks aligned,
+VR107,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned | Right hip prosthesis,
+VR108,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR109,pelvis,2,3,Y,,,,,,,Minor acetabulum mismatch | all pelvic landmarks aligned,
+VR110,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned | Minor acetabulum mismatch,
+VR111,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR112,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,
+VR113,head,3,1,X,a,o,s,n,y,,vault and skull base aligned | Definite cranial vault mismatch | a | o | s | n | y,
+VR114,head,1,3,Y,o,a,s,n,y,,Definite cranial vault mismatch | vault and skull base aligned | o | a | s | n | y,
+VR115,pelvis,2,3,Y,,,,,,,Minor acetabulum mismatch | all pelvic landmarks aligned,
+VR116,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,
+VR117,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR118,pelvis,1,3,Y,,,,,,,all pelvic landmarks aligned,Definite sacrum and acetabulum | mismatch
+VR119,pelvis,3,2,X,,,,,,,all pelvic landmarks aligned,Minor sacrum and acetabulum | mismatch
+VR120,pelvis,3,3,equivalent,,,,,,,all pelvic landmarks aligned | all pelvic landmarks aligned,

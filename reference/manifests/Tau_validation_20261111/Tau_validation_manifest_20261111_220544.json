@@ -1,0 +1,27 @@
+{
+  "step": "tau validation (grid audit + synthetic T1-T9)",
+  "run": "20261111_220544",
+  "script": "Tau_validation.py",
+  "script_md5": "f530bdff3c67b73c5dae024a65060108",
+  "inputs": {
+    "Audit1D_grid_geometry_20261030_215034.csv": "8c8ac873aedca4114ccf033a15ab7efc"
+  },
+  "outputs": {
+    "Tau_grid_audit_20261111_220544.csv": "3ac6767d4cac4b78737afde2f2f8817e",
+    "Tau_synthetic_tests_20261111_220544.csv": "0ddc70252a075697b90f062181a0304b",
+    "Tau_T6_characterisation_20261111_220544.csv": "b7678e744d0df7813be59f7ccb1a4a2e",
+    "Tau_T9_characterisation_20261111_220544.csv": "47c7d05552735c4c2a26faebc222c533"
+  },
+  "all_pass_fail_tests_passed": true,
+  "params": {
+    "SEED_T9": 20261111,
+    "N_SHIFTS_T9": 50,
+    "TOL": 1e-09
+  },
+  "software": {
+    "python": "3.11.15",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "scipy": "1.17.1"
+  }
+}

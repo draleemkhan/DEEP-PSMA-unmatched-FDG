@@ -1,0 +1,245 @@
+DEEP-PSMA | A3 registration QC | Independent second-reader checklist
+SR01–SR10 of 40 • Grade X and Y independently (0–3 / NA), then select X / Y / equivalent • CT anatomy only — no PET or lesion assessment
+
+                Regio          X           Y                                                                                                         C1/2   C1/2                       Skull     Extra
+    Code                                             Pref.             Landmarks / notes X                         Landmarks / notes Y                              Jaw      Neck                             Comments / limitations
+                  n          grade       grade                                                                                                        X      Y                         base      views
+
+                 Head          3            1          x       vault and skull base aligned                Definite vault mismatch                    a      o        s         n        y
+    SR01
+                Pelvis         3            3         eqv      all pelvic landmarks aligned                all pelvic landmarks aligned
+
+                 Head          3            1          x       vault and skull base aligned                Definite vault mismatch                    a      o        s         n        y
+    SR02
+                                                                                                           Mild sacrum and acetabulum
+                Pelvis         3            2          x       all pelvic landmarks aligned
+                                                                                                           offset
+
+                 Head          1            3          y       Definite cranial vault mismatch             vault and skull base aligned               o      a        s         n        y
+    SR03
+                Pelvis         3            3         eqv      all pelvic landmarks aligned                all pelvic landmarks aligned
+
+                 Head          3            1          x       vault and skull base aligned                Definite vault mismatch                    a      o        s         n        y
+    SR04
+                Pelvis         3            3         eqv      all pelvic landmarks aligned                all pelvic landmarks aligned
+
+                 Head          3            1          x       vault and skull base aligned                Definite vault mismatch                    a      o        s         n        y
+    SR05
+                Pelvis         3            3         eqv      all pelvic landmarks aligned                all pelvic landmarks aligned
+
+                                                               In sufficient anatomy fdg ct upper
+                 Head          na          na          na
+    SR06                                                       half skull not in fov
+
+                Pelvis         2            3          y       Minor sacrum mismatch                       all pelvic landmarks aligned
+
+                 Head          1            3          y       Definite cranial vault mismatch             vault and skull base aligned               o      a        s         n        y                 Left hip prosthesis
+    SR07
+                Pelvis         3            3         eqv      all pelvic landmarks aligned                all pelvic landmarks aligned
+
+                 Head          3            1          x       vault and skull base aligned                Definite vault mismatch                    a      o        s         n        y
+    SR08
+                Pelvis         2            3          y       Minor acetabulum mismatch                   all pelvic landmarks aligned
+
+                 Head          2            3          y       minor cranial vault mismatch                vault and skull base aligned               o      a        s         n        y
+    SR09
+                                                                                                           Minor sacrum and acetabulum
+                Pelvis         3            2          x       all pelvic landmarks aligned
+                                                                                                           mismatch
+                 Head          3            2          x       vault and skull base aligned                Minor cranial vault mismatch               a      o        s         n        y
+    SR10
+                                                                                                           Minor sacrum and acetabulum
+                Pelvis         3            2          x       all pelvic landmarks aligned
+                                                                                                           mismatch
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient coverage • Preference: X / Y / equivalent
+Head: grade cranium only; record C1/C2, jaw, neck and skull-base visibility separately. Pelvis: pelvic ring, acetabula and femoral-head positions.
+
+
+
+
+                                                                                                                                                                   DEEP-PSMA | Independent second reader | Blinded • Do not open allocation key
+DEEP-PSMA | A3 registration QC | Independent second-reader checklist
+SR11–SR20 of 40 • Grade X and Y independently (0–3 / NA), then select X / Y / equivalent • CT anatomy only — no PET or lesion assessment
+
+                              X          Y                                                                                                            C1/2   C1/2             Nec     Skull     Extra
+    Code       Region                             Pref.                Landmarks / notes X                                 Landmarks / notes Y                        Jaw                                    Comments / limitations
+                            grade      grade                                                                                                           X      Y                k      base      views
+
+                Head           1          3         y       Definite cranial vault mismatch                    vault and skull base aligned            o      a        s       n        y
+    SR11
+                Pelvis         3          2         x       all pelvic landmarks aligned                       Minor sacrum and acetabulum mismatch
+
+                Head           1          3         y       Definite cranial vault mismatch                    vault and skull base aligned            o      a        s       n        y
+    SR12
+                Pelvis         3          2         x       all pelvic landmarks aligned                       Minor sacrum mismatch
+
+                                                            In sufficient anatomy fdg ct upper half
+                Head          na         na         na
+    SR13                                                    skull not in fov
+                Pelvis         2          3         y       Minor acetabulum mismatch                          all pelvic landmarks aligned
+
+                Head           1          3         y       Definite cranial vault mismatch                    vault and skull base aligned            o      a        s       n        y
+    SR14
+                                                            definite sacrum and acetabulum
+                Pelvis         1          3         y                                                          all pelvic landmarks aligned
+                                                            mismatch
+                Head           1          3         y       Definite cranial vault mismatch                    vault and skull base aligned            o      a        s       n        y
+    SR15
+                Pelvis         3          3        eqv      all pelvic landmarks aligned                       all pelvic landmarks aligned
+
+                Head           3          1         x       vault and skull base aligned                       Definite vault mismatch                 a      o        s       n        y
+    SR16
+                Pelvis         3          3        eqv      all pelvic landmarks aligned                       all pelvic landmarks aligned
+
+                Head           2          3         y       minor cranial vault mismatch                       vault and skull base aligned            o      a        s       n        y
+    SR17
+                Pelvis         3          2         x       all pelvic landmarks aligned                       Minor acetabulum mismatch                                                                  Bilateral hip prosthesis
+
+                Head           3          2         x       vault and skull base aligned                       Minor cranial vault mismatch            a      o        s       n        y
+    SR18
+                Pelvis         3          3        eqv      all pelvic landmarks aligned                       all pelvic landmarks aligned
+
+                Head           3          2         x       vault and skull base aligned                       Minor cranial vault mismatch            a      o        s       n        y
+    SR19
+                Pelvis         3          2         x       all pelvic landmarks aligned                       Minor acetabulum mismatch
+
+                Head           1          3         y       Definite cranial vault mismatch                    vault and skull base aligned            o      a        s       n        y
+    SR20
+                Pelvis         3          3        eqv      all pelvic landmarks aligned                       all pelvic landmarks aligned                                                               right hip prosthesis
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient coverage • Preference: X / Y / equivalent
+Head: grade cranium only; record C1/C2, jaw, neck and skull-base visibility separately. Pelvis: pelvic ring, acetabula and femoral-head positions.
+
+
+
+
+                                                                                                                                                                  DEEP-PSMA | Independent second reader | Blinded • Do not open allocation key
+DEEP-PSMA | A3 registration QC | Independent second-reader checklist
+SR21–SR30 of 40 • Grade X and Y independently (0–3 / NA), then select X / Y / equivalent • CT anatomy only — no PET or lesion assessment
+
+                              X         Y                                                                                                             C1/2   C1/2                        Skull     Extra
+     Code       Region                           Pref.                   Landmarks / notes X                                 Landmarks / notes Y                        Jaw     Neck                             Comments / limitations
+                            grade     grade                                                                                                            X      Y                          base      views
+
+                 Head         1         3          y      Definite cranial vault mismatch                      vault and skull base aligned            o      a          s       n         y
+     SR21
+                                                                                                               definite sacrum and acetabulum
+                 Pelvis       3         1          x      all pelvic landmarks aligned
+                                                                                                               mismatch
+                 Head         3         1          x      vault and skull base aligned                         Definite vault mismatch                 a      o          s       n         y
+     SR22
+
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor sacrum and acetabulum mismatch
+
+                 Head         2         3          y      minor cranial vault mismatch                         vault and skull base aligned            o      a          s       n         y
+     SR23
+
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor acetabulum mismatch
+
+                 Head         1         3          y      Definite cranial vault mismatch                      vault and skull base aligned            o      a          s       n         y
+     SR24
+
+                 Pelvis       3         3        eqv      all pelvic landmarks aligned                         all pelvic landmarks aligned                                                                 right hip prosthesis
+
+                 Head         3         1          x      vault and skull base aligned                         Definite vault mismatch                 a      o          s       n         y
+     SR25
+
+                 Pelvis       3         3        eqv      all pelvic landmarks aligned                         all pelvic landmarks aligned
+
+                                                          Insufficient anatomy info. Upper 2/3 of
+                 Head        na        na         na
+     SR26                                                 vault bot present in Both CT
+                 Pelvis       2         3          y      Minor sacrum and acetabulum mismatch                 all pelvic landmarks aligned
+
+                 Head         3         1          x      vault and skull base aligned                         Definite vault mismatch                 a      o          s       n         y
+     SR27
+
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor sacrum and acetabulum mismatch
+
+                 Head         1         3          y      Definite cranial vault mismatch                      vault and skull base aligned            o      a          s       n         y
+     SR28
+
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor sacrum and acetabulum mismatch
+
+                 Head         3         1          x      vault and skull base aligned                         Definite vault mismatch                 a      o          s       n         y
+     SR29
+                                                                                                               definite sacrum and acetabulum
+                 Pelvis       3         1          x      all pelvic landmarks aligned
+                                                                                                               mismatch
+                 Head         1         3          y      Definite cranial vault mismatch                      vault and skull base aligned            o      a          s       n         y
+     SR30
+
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor sacrum and acetabulum mismatch
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient coverage • Preference: X / Y / equivalent
+Head: grade cranium only; record C1/C2, jaw, neck and skull-base visibility separately. Pelvis: pelvic ring, acetabula and femoral-head positions.
+
+
+
+
+                                                                                                                                                                    DEEP-PSMA | Independent second reader | Blinded • Do not open allocation key
+DEEP-PSMA | A3 registration QC | Independent second-reader checklist
+SR31–SR40 of 40 • Grade X and Y independently (0–3 / NA), then select X / Y / equivalent • CT anatomy only — no PET or lesion assessment
+
+                              X         Y                                                                                                             C1/2   C1/2                        Skull     Extra
+     Code       Region                           Pref.                   Landmarks / notes X                                 Landmarks / notes Y                        Jaw     Neck                             Comments / limitations
+                            grade     grade                                                                                                            X      Y                          base      views
+
+                                                          Insufficient anatomy info. Upper half of
+                 Head        na        na         na
+     SR31                                                 skull not present in fov of fdg ct
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor sacrum and acetabulum mismatch
+
+                 Head         3         1          x      vault and skull base aligned                         Definite vault mismatch                 a      o          s       n         y
+     SR32
+
+                 Pelvis       2         3          y      Minor sacrum and acetabulum mismatch                 all pelvic landmarks aligned
+
+                                                          Insufficient anatomy info. Upper half of
+                 Head        na        na         na
+     SR33                                                 skull not present in fov of fdg ct
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor acetabulum mismatch
+
+                 Head         3         1          x      vault and skull base aligned                         Definite vault mismatch                 a      o          s       n         y
+     SR34
+
+                 Pelvis       2         3          y      Minor sacrum and acetabulum mismatch                 all pelvic landmarks aligned
+
+                 Head         1         3          y      Definite cranial vault mismatch                      vault and skull base aligned            o      a          s       n         y
+     SR35
+
+                 Pelvis       3         2          x      all pelvic landmarks aligned                         Minor acetabulum mismatch
+
+                 Head         3         1          x      vault and skull base aligned                         Definite vault mismatch                 a      o          s       n         y
+     SR36
+
+                 Pelvis       3         3        eqv      all pelvic landmarks aligned                         all pelvic landmarks aligned
+
+                 Head         3         2          x      vault and skull base aligned                         Minor cranial vault mismatch            a      o          s       n         y
+     SR37
+                                                                                                               definite sacrum and acetabulum
+                 Pelvis       3         1          x      all pelvic landmarks aligned
+                                                                                                               mismatch
+                 Head         1         3          y      Definite cranial vault mismatch                      vault and skull base aligned            o      a          s       n         y
+     SR38
+
+                 Pelvis       2         3          y      Minor sacrum mismatch                                all pelvic landmarks aligned
+
+                 Head         1         3          y      Definite cranial vault mismatch                      vault and skull base aligned            o      a          s       n         y
+     SR39
+
+                 Pelvis       3         3        eqv      all pelvic landmarks aligned                         all pelvic landmarks aligned
+
+                                                          Insufficient anatomy info. Upper half of
+                 Head        na        na         na
+     SR40                                                 skull not present in fov of fdg ct
+                 Pelvis       3         3        eqv      all pelvic landmarks aligned                         all pelvic landmarks aligned
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient coverage • Preference: X / Y / equivalent
+Head: grade cranium only; record C1/C2, jaw, neck and skull-base visibility separately. Pelvis: pelvic ring, acetabula and femoral-head positions.
+
+
+
+
+                                                                                                                                                                    DEEP-PSMA | Independent second reader | Blinded • Do not open allocation key
+

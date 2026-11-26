@@ -1,0 +1,18 @@
+{
+  "stage": "P2b export of a P2 perturbation run (parent)",
+  "run": "20261112_090804",
+  "source_P2_parent": "P2_PERTZERO_conn26_20261112_090427",
+  "source_parent_manifest_md5": "ab67e7ec82561580ebbd6e3da573b7be",
+  "script": "P2b_export_voxelsets_csv_v1_6.py",
+  "script_md5": "a8f47a447268bdcfac79825141c7aee3",
+  "sub_manifests": {
+    "k00": "c1fbd41dca88b5983c3fa3afbfe06d65"
+  },
+  "software": {
+    "python": "3.11.15",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "SimpleITK": "2.5.6"
+  },
+  "status": "COMPLETE"
+}

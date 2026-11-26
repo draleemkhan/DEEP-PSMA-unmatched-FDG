@@ -1,0 +1,9 @@
+C:\Users\Administrator\miniconda3\envs\totalseg\python.exe -u D:\DEEP PSMA\PAPER3_Discordance\02_code\A3_second_reader_comparison.py D:\DEEP PSMA\PAPER3_Discordance\06_output/A3_visualQC_second_reader_20261109/A3_second_reader_checklist_pdftotext_20261109.txt D:\DEEP PSMA\PAPER3_Discordance\06_output/A3_visualQC_KEY_SR_do_not_open_20261108.csv D:\DEEP PSMA\PAPER3_Discordance\06_output/A3_visualQC_unblinded_20261108/A3_final_acceptance_per_region.csv D:\DEEP PSMA\PAPER3_Discordance\06_output\_rerun_A3_visualQC_second_reader_20261109
+
+                        A2_exact A2_within1 A3a_exact A3a_within1 preference     NA acceptance_class
+critical_head              20/20      20/20     20/20       20/20      26/26  26/26            26/26
+critical_pelvis            18/26      26/26     24/26       26/26      19/26  26/26            26/26
+random_head                12/14      14/14     14/14       14/14      13/14  14/14            14/14
+random_pelvis              11/14      14/14     14/14       14/14      11/14  14/14            14/14
+all                        61/74      74/74     72/74       74/74      69/80  80/80            80/80
+cap_classification_same    10/10      10/10     10/10       10/10      10/10  10/10            10/10

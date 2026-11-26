@@ -1,0 +1,14 @@
+{
+ "plan": "A3_visualQC_second_reader_plan_20261108.md",
+ "plan_md5": "ff33c80f6b77dd758fee432a0f525f45",
+ "drawn": "2026-11-08 14:04 Asia/Kuwait (after plan lock, before any sheet)",
+ "method": "rng=numpy.random.default_rng(20261108); random=sorted(rng.choice(sorted(pool74),14,replace=False)); cases=critical26(sorted)+random(sorted); perm=rng.permutation(40) -> SR01..SR40; xy=rng.integers(0,2,(40,2)) [head,pelvis], 0 -> X=A2",
+ "numpy": "2.5.3",
+ "fit_table_md5": "dc74686ed0b024d8524668f9b9e16c94",
+ "n_critical": 26,
+ "n_random": 14,
+ "n_total": 40,
+ "n_pages": 80,
+ "key_file": "A3_visualQC_KEY_SR_do_not_open_20261108.csv",
+ "key_md5": "37404bc2316e9516a507fdd0df3311f4"
+}

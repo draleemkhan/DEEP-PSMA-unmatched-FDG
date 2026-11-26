@@ -1,0 +1,1243 @@
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR001–TR005 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+
+   TR001        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   1           Definite C3-5 offset                                                n            y             y
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR002        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR003        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           minor C3-4 offset                                                   n            y             y
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR004        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           minor C3-4 offset                                                   n            Y             y
+
+
+                Thorax                 3           All aligned                                                         n            N
+
+
+   TR005        Abdomen                3           All aligned                                                         n            N
+
+
+                Neck                   2           minor C3-4 offset                                                   n            y             y
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             1 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR006–TR010 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                                   Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR006        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR007        Abdomen                3           All aligned                                                         n            n
+
+                                                   Apparent cervical vertebral-level mismatch between                  uncertai                                  Matched sagittal and axial   Verify anatomical slice correspondence and
+                Neck                   1                                                                                            n             n
+                                                   PSMA and resampled FDG CT, particularly at C5.                      n                                         C4–C6 slices                 registration before final grading
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR008        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   1           Definite translational offset of cervical vertebrae                 n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR009        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR010        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                                                           2 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR011–TR015 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR011        Abdomen                2           Mild translational offset of lumbar vertebrae                       n            n
+
+                                                   Definite craniocaudal translational offset of cervical
+                Neck                   1                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR012        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           Mild postural tilt                                                  n            n             y
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR013        Abdomen                3           All aligned                                                         n            n
+
+                                                   Mild craniocaudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR014        Abdomen                3           All aligned                                                         n            n
+
+                                                   Mild craniocaudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR015        Abdomen                3           All aligned                                                         n            n
+
+                                                   Mild craniocaudal and horizontal translational offset of
+                Neck                   2                                                                               n            n             n
+                                                   cervical vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             3 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR016–TR020 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR016        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR017        Abdomen                3           All aligned                                                         n            n
+
+                                                   Mild craniocaudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR018        Abdomen                3           All aligned                                                         n            n
+
+                                                   Mild craniocaudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR019        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite craniocaudal translational offset of cervical
+                Neck                   1                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR020        Abdomen                2           Mild translational offset of lumbar vertebrae                       n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             4 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR021–TR025 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                                   Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR021        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR022        Abdomen                3           All aligned                                                         n            n
+
+                                                   Apparent cervical vertebral-level mismatch between                  uncertai                                  Matched sagittal and axial   Verify anatomical slice correspondence and
+                Neck                   1                                                                                            n             n
+                                                   PSMA and resampled FDG CT, particularly at C5.                      n                                         C4–C6 slices                 registration before final grading
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR023        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite craniocaudal translational offset of cervical
+                Neck                   1                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR024        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR025        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           Mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                                                           5 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR026–TR030 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR026        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR027        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR028        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           Mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR029        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           Mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR030        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite craniocaudal translational offset of cervical
+                Neck                   1                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             6 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR031–TR035 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR031        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR032        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR033        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           Mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR034        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           Mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR035        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             7 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR036–TR040 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR036        Abdomen                2           Mild translational offset of lumbar vertebrae                       n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR037        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR038        Abdomen                2           Mild translational offset of lumbar vertebrae                       n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR039        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR040        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             8 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR041–TR045 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR041        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR042        Abdomen                3           All aligned                                                         n            n
+
+                                                   Mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR043        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite cranio-caudal translational offset of cervical
+                Neck                   1                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR044        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR045        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             9 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR046–TR050 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR046        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR047        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR048        Abdomen                3           All aligned                                                         n            n
+
+                                                   Mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR049        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite horizontal translational offset of cervical
+                Neck                   1                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR050        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             10 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR051–TR055 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR051        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR052        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR053        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR054        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR055        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             11 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR056–TR060 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR056        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR057        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR058        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR059        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite cranio-caudal translational offset of cervical
+                Neck                   1                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR060        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             12 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR061–TR065 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR061        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR062        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR063        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR064        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR065        Abdomen                2           Minor iliac bone offset                                             n            y             n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             13 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR066–TR070 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR066        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite cranio-caudal and horizontal translational
+                Neck                   1                                                                               n            n             n
+                                                   offset of cervical vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR067        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR068        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR069        Neck                   3           All aligned                                                         n            n             n
+
+                Thorax +
+                                       3           All aligned                                                         n            n
+                abdomen
+
+   TR070        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             14 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR071–TR075 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR071        Abdomen                2           Minor iliac bone offset                                             n            y             n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR072        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR073        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR074        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR075        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             15 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR076–TR080 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR076        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR077        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR078        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR079        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR080        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             16 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR081–TR085 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR081        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR082        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR083        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR084        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR085        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             17 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR086–TR090 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR086        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR087        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR088        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite cranio-caudal and horizontal translational
+                Neck                   1                                                                               n            n             n
+                                                   offset of cervical vertebrae
+
+                Thorax                 2           Minor spine offset                                                  n            n
+
+
+   TR089        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR090        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             18 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR091–TR095 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR091        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR092        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   2           mild horizontal translational offset of cervical vertebrae          n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR093        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR094        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite cranio-caudal and horizontal translational
+                Neck                   1                                                                               n            n             n
+                                                   offset of cervical vertebrae
+
+                Thorax                 2           Minor spine offset                                                  n            n
+
+
+   TR095        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             19 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR096–TR100 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR096        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR097        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR098        Abdomen                3           All aligned                                                         n            n
+
+                                                   mild cranio-caudal translational offset of cervical
+                Neck                   2                                                                               n            n             n
+                                                   vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR099        Abdomen                3           All aligned                                                         n            n
+
+
+                Neck                   3           All aligned                                                         n            n             n
+
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+   TR100        Abdomen                3           All aligned                                                         n            n
+
+                                                   Definite cranio-caudal and horizontal translational
+                Neck                   1                                                                               n            n             n
+                                                   offset of cervical vertebrae
+
+                Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             20 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR101–TR105 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR101        Neck                   3           All aligned                                                         n            n             n
+
+
+   TR102        Thorax                 3           All aligned                                                         n            n
+
+
+   TR103        Thorax                 3           All aligned                                                         n            n
+
+
+   TR104        Abdomen                3           All aligned                                                         n            n
+
+
+   TR105        Abdomen                3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             21 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR106–TR110 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR106        Neck                   2           mild horizontal offset of cervical vertebrae                        n            n             n
+
+
+   TR107        Abdomen                3           All aligned                                                         n            n
+
+
+   TR108        Thorax                 3           All aligned                                                         n            n
+
+
+   TR109        Thorax                 3           All aligned                                                         n            n
+
+
+   TR110        Neck                   2           mild cranio-caudal offset of cervical vertebrae                     n            n             n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             22 / 23
+DEEP-PSMA | Trunk skeletal registration QC | Blinded reviewer checklist
+TR111–TR115 • Amendment 2 only • Skeletal alignment only • No PET / lesion information • Do not open key
+
+                                                                                                                       Level                      Neck posture
+                                       Grade                                                                                        Rotation                     Additional views
+   Code         Subregion                          Skeletal landmarks / reason for grade                               slip                       different                         Comments / limitations
+                                       0–3 / NA                                                                                     Y/N                          (landmark)
+                                                                                                                       Y/N                        Y/N
+
+   TR111        Abdomen                3           All aligned                                                         n            n
+
+
+   TR112        Neck                   2           mild cranio-caudal offset of cervical vertebrae                     n            n             n
+
+
+   TR113        Neck                   3           All aligned                                                         n            n             n
+
+
+   TR114        Abdomen                3           All aligned                                                         n            n
+
+
+   TR115        Thorax                 3           All aligned                                                         n            n
+
+
+Grades: 3 excellent | 2 acceptable | 1 poor | 0 failure | NA insufficient anatomical coverage.
+Landmarks: Neck C3–C7; thorax T1–T12 (+ ribs/sternum); abdomen L1–L5 (+ lower ribs). Grade bone alignment only.
+Record level slip, rotation and neck posture separately. Do not penalise arms or organ position. Combined page = one grade for both subregions.
+                                                                                                                                                                                                             23 / 23
+

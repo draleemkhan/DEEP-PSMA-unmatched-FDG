@@ -1,0 +1,15 @@
+{
+ "spec": "A3_visual_QC_spec_v1_1_amendment_20261106.md",
+ "spec_md5": "089e428056faeea5345a2f8602658166",
+ "drawn": "2026-11-06 15:52 Asia/Kuwait (after amendment lock, before any image)",
+ "method": "rng=numpy.random.default_rng(20261106); perm=rng.permutation(100) over sorted case IDs -> VR001..VR100; xy=rng.integers(0,2,(100,2)) [head,pelvis], 0 -> X=A2; units = [(VR001,head),(VR001,pelvis),...,(VR100,pelvis)]; rsel=rng.choice(200,20,replace=False); rord=rng.permutation(20); rxy=rng.integers(0,2,20); repeat VR(101+k) = units[rsel[rord[k]]], X=A2 if rxy[k]==0",
+ "numpy": "2.5.3",
+ "fit_table_md5": "dc74686ed0b024d8524668f9b9e16c94",
+ "n_patients": 100,
+ "n_targeted": 20,
+ "n_routine": 80,
+ "n_repeats": 20,
+ "n_pages": 220,
+ "key_file": "A3_visualQC_KEY100_do_not_open_20261106.csv",
+ "key_md5": "aa72f6b91b2f7aa064eb6f2519033aa7"
+}

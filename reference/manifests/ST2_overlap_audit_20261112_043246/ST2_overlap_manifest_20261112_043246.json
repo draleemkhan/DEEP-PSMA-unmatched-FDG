@@ -1,0 +1,23 @@
+{
+  "stage": "ST2 descriptive organ-overlap audit",
+  "run": "20261112_043246",
+  "script": "ST2_overlap_audit.py",
+  "script_md5": "89e17abf2b1dab7175b21abb1743660a",
+  "inputs": {
+    "ST2a_20261112_072150/ST2a_components_20261112_072150.csv": "a2fbe377c4081a64de98eec2b6b5f533",
+    "ST2a_20261112_072150/ST2a_manifest_20261112_072150.json": "bca65313ea0d550286fbf9c38bcfc33b",
+    "P3S_ST2_20261112_072438/P3S_ST2_components_20261112_072438.csv": "6511e142d7b88f64d405526800a867cb",
+    "P3S_ST2_20261112_072438/P3S_manifest_20261112_072438.json": "641328dda1f30d59fd6ec985b20cf051",
+    "P3S_ST2_completion_note_addendum_20261112.md": "d16a160add3f2fc9f5180857c486586b"
+  },
+  "outputs": {
+    "ST2_overlap_components_20261112_043246.csv": "714ef116b951aea9ee76154cb7346293",
+    "ST2_overlap_summary_20261112_043246.json": "1aac1574060678b2ba352de502409624"
+  },
+  "software": {
+    "python": "3.10.12",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3"
+  },
+  "status": "COMPLETE"
+}

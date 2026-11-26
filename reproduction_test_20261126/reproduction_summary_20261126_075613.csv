@@ -1,0 +1,2 @@
+order,run,script,result,seconds,gating_pass,gating_total,info_diff,manifests_restored,note
+8,A3_visualQC_second_reader_20261109,A3_second_reader_comparison.py,FAIL,1,0,3,0,0,

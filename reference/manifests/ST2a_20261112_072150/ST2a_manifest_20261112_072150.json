@@ -1,0 +1,66 @@
+{
+  "stage": "ST2a organ intersection (native FDG geometry only)",
+  "mode": "FULL",
+  "run": "20261112_072150",
+  "script": "ST2a_organ_intersection.py",
+  "script_md5": "e2aec87ce3ba815f0e3a184ef1b35d64",
+  "inputs": {
+    "P1_20261111_233936/P1_components_20261111_233936.csv": "ffafbc7917e1b595eadacafab247fe88",
+    "P1_20261111_233936/P1_manifest_20261111_233936.json": "a27e4e4c5f44402c53487f9f8dd7dd8b",
+    "Audit1B_label_level_20261029_134401.csv": "896a1681e90da4fe793a3a449d737fde",
+    "O1_organ_displacement_20261111_232613.csv": "daaae3134932b6267807a128cb8f85dd",
+    "A3_visualQC_KEY_do_not_open_20261105.csv": "c9a4548d3daf13d3e3dadc96171a9a94",
+    "StepSAP_soft_tissue_ST_spec_LOCKED_20261111.md": "055199c4fd5d46039dcc65b6ab4f2416",
+    "StepSAP_ST2_implementation_clarification_20261112.md": "8cf2c01c306007ec00f2450f7e2bd993"
+  },
+  "n_patients": 100,
+  "connectivity": 26,
+  "outputs": {
+    "ST2a_availability_20261112_072150.csv": "d76371d539baf44c5c5ffc38af848aeb",
+    "ST2a_components_20261112_072150.csv": "a2fbe377c4081a64de98eec2b6b5f533"
+  },
+  "params": {
+    "FRAG_MIN": 0.95,
+    "STRUCT": {
+      "spleen": [
+        1
+      ],
+      "kidney_right": [
+        2
+      ],
+      "kidney_left": [
+        3
+      ],
+      "liver": [
+        5
+      ],
+      "lung_left": [
+        10,
+        11
+      ],
+      "lung_right": [
+        12,
+        13,
+        14
+      ]
+    },
+    "STRUCT_ID": {
+      "spleen": 1,
+      "kidney_right": 2,
+      "kidney_left": 3,
+      "liver": 5,
+      "lung_left": 10,
+      "lung_right": 12
+    },
+    "rounding": "floor(x + 0.5)"
+  },
+  "software": {
+    "python": "3.11.15",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "scipy": "1.17.1",
+    "SimpleITK": "2.5.6"
+  },
+  "runtime_s": 34,
+  "status": "COMPLETE"
+}

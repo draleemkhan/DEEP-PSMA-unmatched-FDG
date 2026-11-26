@@ -1,0 +1,27 @@
+{
+  "stage": "PERT generation of registration perturbations (SAP 8.1)",
+  "run": "20261112_082222",
+  "script": "PERT_generate_v1_0.m",
+  "script_md5": "fca5d75c04ec4b75bc5b7b23565137f3",
+  "clarification_md5": "5f280df40970eec504bb4f08d421d69d",
+  "seed": 2.0261113E+7,
+  "generator": "twister",
+  "n_per_level": 50,
+  "levels": [
+    {
+      "name": "L1",
+      "tmag": 5.16,
+      "angle_deg": 2.29
+    },
+    {
+      "name": "L2",
+      "tmag": 8.5,
+      "angle_deg": 4.47
+    }
+  ],
+  "csv": "PERT_perturbations_20261112_082222.csv",
+  "csv_md5": "6d830919f16704410542ae97354e1bf9",
+  "R_storage": "row-major R11..R33; perturbed point = R (q - c) + c + t",
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "status": "COMPLETE"
+}

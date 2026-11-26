@@ -1,0 +1,143 @@
+{
+  "step": "Audit 1C-e - Amendment 2 translation-only refinement (protocol v2.8 Section 15.2)",
+  "run": "20261031_141128",
+  "completion_status": "COMPLETE",
+  "script": "D:\\DEEP PSMA\\PAPER3_Discordance\\02_code\\Audit1C_e_translation_refinement.py",
+  "script_MD5": "ce038cb661670d673bdc7dbbb448f10b",
+  "amendment1_structure_table": {
+    "path": "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_c_structure_level_20261029_212531.csv",
+    "md5": "77469a3a828691e41f43c2c92ed04eda"
+  },
+  "parameters": {
+    "MIN_FITTING": 5,
+    "VERIFY_TOL_MM": 1e-06,
+    "N_TEST_GRID": 5,
+    "C1_DIFF_MAX": 0.0,
+    "C2_DIFF_MAX": 0.5,
+    "C3_WORSEN_MM": 2.0,
+    "C3_MAX_PATIENTS": 5,
+    "C4_N": 5,
+    "C4_rule": "primary: top C4_N by Amendment 1 change; safety: largest held-out deterioration and improvement",
+    "COVERAGE_MARGIN_MM": 10.0,
+    "CENTROID_REPRO_TOL_MM": 0.01,
+    "REPRO_FLAG_DICE": 0.02,
+    "REPRO_FLAG_MSD_MM": 0.5,
+    "REPRO_FLAG_HD95_MM": 1.0,
+    "REQUIRED_HELDOUT_SETS": [
+      "heldout_bone",
+      "heldout_soft"
+    ],
+    "estimator": "component-wise median of d_s over Amendment 1 fitting structures",
+    "transforms": "T'(p)=FDG_rigid(p)-t ; R'(q)=PSMA_rigid(q+t)",
+    "surface_metrics": "pooled symmetric contour-to-boundary distances; MSD mean; HD95 95th pct"
+  },
+  "criteria": [
+    {
+      "population": "(i) patients with computed correction [decides]",
+      "n_patients": 100,
+      "heldout_bone_supplied_median": 7.9986949666881,
+      "heldout_bone_corrected_median": 5.158723427481192,
+      "heldout_bone_median_paired_diff": -1.7586268471290263,
+      "heldout_soft_median_paired_diff": -1.2217450982413274,
+      "n_patients_heldout_bone_worse_gt_2mm": 3,
+      "n_improved_gt_1mm": 64,
+      "n_worsened_gt_1mm": 7,
+      "C1_met": true,
+      "C2_met": true,
+      "C3_met": true,
+      "C4": "PENDING_AUTHOR_VISUAL_REVIEW",
+      "n_insufficient_landmarks": 0,
+      "criteria_valid": true,
+      "patients_missing_required_heldout": ""
+    },
+    {
+      "population": "(ii) all patients (insufficient-landmarks enter with difference 0)",
+      "n_patients": 100,
+      "heldout_bone_supplied_median": 7.9986949666881,
+      "heldout_bone_corrected_median": 5.158723427481192,
+      "heldout_bone_median_paired_diff": -1.7586268471290263,
+      "heldout_soft_median_paired_diff": -1.2217450982413274,
+      "n_patients_heldout_bone_worse_gt_2mm": 3,
+      "n_improved_gt_1mm": 64,
+      "n_worsened_gt_1mm": 7,
+      "C1_met": true,
+      "C2_met": true,
+      "C3_met": true,
+      "C4": "PENDING_AUTHOR_VISUAL_REVIEW",
+      "n_insufficient_landmarks": 0,
+      "criteria_valid": true,
+      "patients_missing_required_heldout": ""
+    }
+  ],
+  "reproduction_check_vs_amendment1": {
+    "supplied_centroid_mm": {
+      "threshold": 0.01,
+      "max_abs_diff": 0.0,
+      "median_abs_diff": 0.0,
+      "n_structures_above_threshold": 0,
+      "n_compared": 6687,
+      "action": "hard stop"
+    },
+    "supplied_dice": {
+      "threshold": 0.02,
+      "max_abs_diff": 0.0,
+      "median_abs_diff": 0.0,
+      "n_structures_above_threshold": 0,
+      "n_compared": 6687,
+      "action": "flag only"
+    },
+    "supplied_MSD_mm": {
+      "threshold": 0.5,
+      "max_abs_diff": 0.0,
+      "median_abs_diff": 0.0,
+      "n_structures_above_threshold": 0,
+      "n_compared": 6687,
+      "action": "flag only"
+    },
+    "supplied_HD95_mm": {
+      "threshold": 1.0,
+      "max_abs_diff": 0.0,
+      "median_abs_diff": 0.0,
+      "n_structures_above_threshold": 0,
+      "n_compared": 6687,
+      "action": "flag only"
+    }
+  },
+  "evaluation_complete": true,
+  "patients_missing_required_heldout": [],
+  "C4_procedure_verified": true,
+  "C4_selection": [
+    "train_0012",
+    "train_0086",
+    "train_0066",
+    "train_0099",
+    "train_0021",
+    "train_0067"
+  ],
+  "output_errors": [],
+  "software": {
+    "python": "3.11.15 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:12:53) [MSC v.1942 64 bit (AMD64)]",
+    "SimpleITK": "2.5.6",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "matplotlib": "3.11.2",
+    "platform": "Windows-10-10.0.26200-SP0"
+  },
+  "n_input_files": 800,
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_per_patient_20261031_141128.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_structure_level_20261031_141128.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_criteria_C1_C3_20261031_141128.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_verification_log_20261031_141128.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_coverage_20261031_141128.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_C4_selection_20261031_141128.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_input_inventory_20261031_141128.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_C4_overlay_train_0012_20261031_141128.png",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_C4_overlay_train_0086_20261031_141128.png",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_C4_overlay_train_0066_20261031_141128.png",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_C4_overlay_train_0099_20261031_141128.png",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_C4_overlay_train_0021_20261031_141128.png",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_C4_overlay_train_0067_20261031_141128.png"
+  ],
+  "note": "Adoption decision is recorded by the author after C4 review. No correspondence or discordance."
+}

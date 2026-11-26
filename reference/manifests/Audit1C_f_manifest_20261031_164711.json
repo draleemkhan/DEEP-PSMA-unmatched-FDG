@@ -1,0 +1,100 @@
+{
+  "step": "Audit 1C-f - independent vascular and muscular registration QC (protocol v2.9 Section 8.4)",
+  "run": "20261031_164711",
+  "completion_status": "COMPLETE",
+  "script": "D:\\DEEP PSMA\\PAPER3_Discordance\\02_code\\Audit1C_f_vascular_muscular_QC.py",
+  "script_MD5": "e893c4ff12dd871c52d2c992f8c2b7b3",
+  "inputs": {
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1B_label_level_20261029_134401.csv": "896a1681e90da4fe793a3a449d737fde",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_per_patient_20261031_141128.csv": "c66da788a6c73737163b4c09ed76f494",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_structure_level_20261031_141128.csv": "289b57e69a6f119968b3ae3990db9fd9"
+  },
+  "parameters": {
+    "VASCULAR": {
+      "52": "aorta",
+      "63": "inferior_vena_cava",
+      "67": "iliac_vena_left",
+      "68": "iliac_vena_right",
+      "65": "iliac_artery_left",
+      "66": "iliac_artery_right"
+    },
+    "MUSCULAR": {
+      "88": "iliopsoas_left",
+      "89": "iliopsoas_right",
+      "82": "gluteus_medius_left",
+      "83": "gluteus_medius_right",
+      "84": "gluteus_minimus_left",
+      "85": "gluteus_minimus_right",
+      "80": "gluteus_maximus_left",
+      "81": "gluteus_maximus_right"
+    },
+    "EXPLORATORY": {
+      "22": "prostate"
+    },
+    "FRAG_MIN": 0.95,
+    "END_MARGIN_MM": 10.0,
+    "MIN_WINDOW_MM": 20.0,
+    "MIN_SURFACE_POINTS": 100,
+    "ROI_MARGIN_VOX": 3,
+    "REPRO_TOL_MM": 0.01,
+    "BOUNDARIES": {
+      "C7T1": 17.5,
+      "T12L1": 5.5,
+      "L5S1": 0.5
+    },
+    "FLAGGED": {
+      "train_0088": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "train_0059": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "train_0029": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "fallbacks": [
+      "train_0018",
+      "train_0049",
+      "train_0067"
+    ]
+  },
+  "synthetic_validation_passed": true,
+  "output_errors": [],
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_segments_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_patient_region_class_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_paired_differences_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_cohort_summary_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_fallback_corrected_T_C_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_exploratory_prostate_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_eligibility_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_boundaries_substitution_log_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_reproduction_check_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_processing_status_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_synthetic_validation_20261031_164711.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_f_input_inventory_20261031_164711.csv"
+  ],
+  "n_input_files": 400,
+  "software": {
+    "python": "3.11.15 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:12:53) [MSC v.1942 64 bit (AMD64)]",
+    "SimpleITK": "2.5.6",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "scipy": "1.17.1",
+    "platform": "Windows-10-10.0.26200-SP0"
+  },
+  "note": "Descriptive only. No thresholds, tumour data, matching, correspondence or discordance."
+}

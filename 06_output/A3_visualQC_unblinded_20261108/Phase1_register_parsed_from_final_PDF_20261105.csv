@@ -1,0 +1,201 @@
+code,ct,H,S,P,Frag,Mtl,FHL,FHR,CH,CS,CP,note
+QC001,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC001,FDG,5,5,5,n,n,r,r,s,s,s,
+QC002,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC002,FDG,5,5,5,n,n,r,r,s,s,s,
+QC003,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC003,FDG,5,5,5,n,n,r,r,s,s,s,
+QC004,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC004,FDG,5,5,5,n,n,r,r,s,s,s,
+QC005,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC005,FDG,5,5,5,n,n,r,r,s,s,s,
+QC006,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC006,FDG,5,5,5,n,n,r,r,s,s,s,
+QC007,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC007,FDG,5,5,5,n,n,r,r,s,s,s,
+QC008,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC008,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC009,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC009,FDG,5,5,5,n,n,r,r,s,s,s,
+QC010,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC010,FDG,5,5,5,n,n,r,r,s,s,s,
+QC011,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC011,FDG,5,5,5,n,n,r,r,s,s,s,
+QC012,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC012,FDG,5,5,5,n,n,r,r,s,s,s,
+QC013,PSMA,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on PSMA CT
+QC013,FDG,5,5,5,n,n,r,r,s,s,s,
+QC014,PSMA,5,5,5,n,y,r,r,s,s,s,Cannulated screw fixation of left femur neck and head
+QC014,FDG,5,5,5,n,y,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC015,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC015,FDG,5,5,5,n,n,r,r,s,s,s,
+QC016,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC016,FDG,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on FDG CT
+QC017,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC017,FDG,5,5,5,n,n,r,r,s,s,s,
+QC018,PSMA,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on both CT
+QC018,FDG,5,5,5,n,n,r,d,s,s,s,
+QC019,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC019,FDG,5,5,5,n,n,r,r,s,s,s,
+QC020,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC020,FDG,5,5,5,n,n,r,r,s,s,s,
+QC021,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC021,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC022,PSMA,5,5,5,n,n,r,d,s,s,s,
+QC022,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on both CT
+QC023,PSMA,5,5,5,n,y,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on PSMA CT Total hip replacement femoral head and neck and acetabulum
+QC023,FDG,5,5,5,n,y,r,r,s,s,s,left side
+QC024,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC024,FDG,5,5,5,n,n,r,r,s,s,s,
+QC025,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC025,FDG,5,5,5,n,n,r,r,s,s,s,
+QC026,PSMA,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on PSMA CT
+QC026,FDG,5,5,5,n,n,r,r,s,s,s,
+QC027,PSMA,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on PSMA CT
+QC027,FDG,5,5,5,n,n,r,r,s,s,s,
+QC028,PSMA,5,5,5,n,y,r,r,s,s,s,Spinal fixation T1-T7
+QC028,FDG,5,5,5,n,y,r,r,s,s,s,
+QC029,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC029,FDG,5,5,5,n,n,r,r,s,s,s,
+QC030,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC030,FDG,5,5,5,n,n,r,r,s,s,s,
+QC031,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC031,FDG,5,5,5,n,n,r,r,s,s,s,
+QC032,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC032,FDG,5,5,5,n,n,r,r,s,s,s,Cardiac Pacemaker and its wires are in place but not segmented
+QC033,PSMA,5,5,5,n,y,r,r,s,s,s,giving no problem
+QC033,FDG,5,5,5,n,y,r,r,s,s,s,
+QC034,PSMA,5,5,5,n,y,r,r,s,s,s,Spinal fixation T8-T12 causing no problem
+QC034,FDG,5,5,5,n,y,r,r,s,s,s,
+QC035,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC035,FDG,5,5,5,n,n,r,r,s,s,s,Calcified abdominal aorta or some metallic mesh but not
+QC036,PSMA,5,5,5,n,y,r,r,s,s,s,causing any segmentation problem
+QC036,FDG,5,5,5,n,y,r,r,s,s,s,
+QC037,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC037,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC038,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC038,FDG,5,5,5,n,n,r,r,s,s,s,Calcified abdominal aorta but not causing any segmentation
+QC039,PSMA,5,5,5,n,n,r,r,s,s,s,problem
+QC039,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC040,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC040,FDG,5,5,5,n,n,r,r,s,s,s,Calcified abdominal aorta but not causing any segmentation
+QC041,PSMA,5,5,5,n,n,r,r,s,s,s,problem
+QC041,FDG,5,5,5,n,n,r,r,s,s,s,
+QC042,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC042,FDG,5,5,5,n,n,r,r,s,s,s,Cannulated screw fixation of right femur neck and head and not
+QC043,PSMA,5,5,5,n,y,r,d,s,s,s,segmenting the right femur head on both CT
+QC043,FDG,5,5,5,n,y,r,d,s,s,s,Bilateral Total hip replacement femoral head and neck and
+QC044,PSMA,5,5,5,n,y,r,r,s,s,s,acetabulum but causing no segmentation problem
+QC044,FDG,5,5,5,n,y,r,r,s,s,s,
+QC045,PSMA,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on PSMA CT
+QC045,FDG,5,5,5,n,n,r,r,s,s,s,
+QC046,PSMA,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on PSMA CT
+QC046,FDG,5,5,5,n,n,r,r,s,s,s,Cardiac Pacemaker and its wires are in place but not segmented
+QC047,PSMA,5,5,5,n,y,d,r,s,s,s,giving no problem
+QC047,FDG,5,5,5,n,y,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on both CT
+QC048,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC048,FDG,5,5,5,n,n,r,r,s,s,s,Total hip replacement femoral head and neck and acetabulum
+QC049,PSMA,5,5,5,n,y,r,r,s,s,s,right side
+QC049,FDG,5,5,5,n,y,r,r,s,s,s,
+QC050,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC050,FDG,5,5,5,n,n,r,r,s,s,s,
+QC051,PSMA,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on PSMA CT
+QC051,FDG,5,5,5,n,n,r,r,s,s,s,
+QC052,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC052,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC053,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC053,FDG,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on FDG CT
+QC054,PSMA,5,5,5,n,y,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on PSMA CT
+QC054,FDG,5,5,5,n,y,r,r,s,s,s,Bilateral DJ stent not causing segmentation problem
+QC055,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC055,FDG,5,5,5,n,n,r,r,s,s,s,Calcified abdominal aorta but not causing any segmentation
+QC056,PSMA,5,5,5,n,n,r,r,s,s,s,problem
+QC056,FDG,5,5,5,n,n,r,r,s,s,s,Right Total hip replacement femoral head and neck and
+QC057,PSMA,5,5,5,n,y,r,r,s,s,s,acetabulum but causing no segmentation problem
+QC057,FDG,5,5,5,n,y,r,r,s,s,s,
+QC058,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC058,FDG,5,5,5,n,n,r,r,s,s,s,
+QC059,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC059,FDG,5,5,5,n,n,r,r,s,s,s,
+QC060,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC060,FDG,5,5,5,n,n,r,r,s,s,s,
+QC061,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC061,FDG,5,5,5,n,n,r,r,s,s,s,
+QC062,PSMA,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on PSMA CT
+QC062,FDG,5,5,5,n,n,r,r,s,s,s,
+QC063,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC063,FDG,5,5,5,n,n,r,r,s,s,s,Tilt. right femoral head didn’t appear on axial slice on both PSMA
+QC064,PSMA,5,5,5,n,n,r,d,s,s,s,and FDG CT
+QC064,FDG,5,5,5,n,n,r,d,s,s,s,Skull view on FDG on different zoom. Whole skull not appears on
+QC065,PSMA,5,5,5,n,n,r,r,f,s,s,"axial and sagittal slice, segmentation, though is fine"
+QC065,FDG,5,5,5,n,n,r,r,f,s,s,
+QC066,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC066,FDG,5,5,5,n,n,r,r,s,s,s,
+QC067,PSMA,5,5,5,n,y,r,r,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT Metallic clipping on sternum after surgery not causing
+QC067,FDG,5,5,5,n,y,r,d,s,s,s,segmentation problem
+QC068,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC068,FDG,5,5,5,n,n,r,r,s,s,s,
+QC069,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC069,FDG,5,5,5,n,n,r,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on both PSMA
+QC070,PSMA,5,5,5,n,n,d,r,s,s,s,and FDG CT
+QC070,FDG,5,5,5,n,n,d,r,s,s,s,
+QC071,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC071,FDG,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on FDG CT Skull view on FDG on different zoom. Whole skull not appears on
+QC072,PSMA,5,5,5,n,n,r,r,f,s,s,"axial and sagittal slice, segmentation, though is fine"
+QC072,FDG,5,5,5,n,n,r,r,f,s,s,Dj stent left side and another unidentified metallic device caudal
+QC073,PSMA,5,5,5,n,y,r,r,s,s,s,"to left kidney, however, no segmentation problem"
+QC073,FDG,5,5,5,n,y,r,r,s,s,s,
+QC074,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC074,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC075,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC075,FDG,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on FDG CT
+QC076,PSMA,5,5,5,n,n,r,d,s,s,s,Tilt. right femoral head didn’t appear on axial slice on both PSMA
+QC076,FDG,5,5,5,n,n,r,d,s,s,s,and FDG CT
+QC077,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC077,FDG,5,5,5,n,n,r,r,s,s,s,
+QC078,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC078,FDG,5,5,5,n,n,r,r,s,s,s,
+QC079,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC079,FDG,5,5,5,n,n,r,r,s,s,s,
+QC080,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC080,FDG,5,5,5,n,n,r,r,s,s,s,
+QC081,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC081,FDG,5,5,5,n,n,r,r,s,s,s,
+QC082,PSMA,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on PSMA CT
+QC082,FDG,5,5,5,n,n,r,r,s,s,s,
+QC083,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC083,FDG,5,5,5,n,n,r,r,s,s,s,
+QC084,PSMA,5,5,5,n,n,r,r,p,s,s,different skull zooms
+QC084,FDG,5,5,5,n,n,r,r,p,s,s,
+QC085,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC085,FDG,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on FDG CT Tilt. left femoral head didn’t appear on axial slice on both PSMA
+QC086,PSMA,5,5,5,n,n,d,r,s,s,s,and FDG CT
+QC086,FDG,5,5,5,n,n,d,r,s,s,s,
+QC087,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC087,FDG,5,5,5,n,n,r,r,s,s,s,Tilt. right femoral head didn’t appear on axial slice on both PSMA and FDG CT.
+QC088,PSMA,5,5,5,n,n,r,d,p,s,s,"Small fragment on left lateral to left femoral head on FDG CT axial slice, labelling as femur L"
+QC088,FDG,5,5,5,y,n,r,d,p,s,s,different skull zooms.
+QC089,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC089,FDG,5,5,5,n,n,r,r,s,s,s,
+QC090,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC090,FDG,5,5,5,n,n,r,r,s,s,s,
+QC091,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC091,FDG,5,5,5,n,n,r,r,s,s,s,
+QC092,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC092,FDG,5,5,5,n,n,r,r,s,s,s,
+QC093,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC093,FDG,5,5,5,n,n,r,r,s,s,s,Tilt. right femoral head didn’t appear on axial slice on both PSMA
+QC094,PSMA,5,5,5,n,n,r,d,s,s,s,and FDG CT
+QC094,FDG,5,5,5,n,n,r,d,s,s,s,
+QC095,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC095,FDG,5,5,5,n,n,r,r,s,s,s,Tilt. right femoral head didn’t appear on axial slice on both PSMA
+QC096,PSMA,5,5,5,n,y,r,d,s,s,s,"and FDG CT Cardiac pacemaker placed on right sided chest, not causing"
+QC096,FDG,5,5,5,n,y,r,d,s,s,s,segmentation problem
+QC097,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC097,FDG,5,5,5,n,n,r,r,s,s,s,
+QC098,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC098,FDG,5,5,5,n,n,r,r,s,s,s,
+QC099,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC099,FDG,5,5,5,n,n,d,r,s,s,s,Tilt. left femoral head didn’t appear on axial slice on FDG CT
+QC100,PSMA,5,5,5,n,n,r,r,s,s,s,
+QC100,FDG,5,5,5,n,n,r,r,s,s,s,

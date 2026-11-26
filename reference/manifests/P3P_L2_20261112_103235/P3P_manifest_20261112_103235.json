@@ -1,0 +1,40 @@
+{
+  "stage": "P3P registration perturbation, level L2 (FULL)",
+  "run": "20261112_103235",
+  "script": "P3_matching_classification_v1_13.m",
+  "script_md5": "6e79a8869646765dec628b5386342093",
+  "inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_components_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_patients_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_components_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_consolidated_LOCKED_20261111.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_perturbation_implementation_clarification_20261112.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_PERT_L2_conn26_20261112_090539\\P2_manifest_20261112_090539.json",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2b_PERT_L2_conn26_20261112_100720\\P2b_manifest_20261112_100720.json",
+    "ffafbc7917e1b595eadacafab247fe88",
+    "f9b5b5908e523d1122547ef07d5c0afd",
+    "ac0048cfe059c714b3c293fbe7e88279",
+    "2f88309e1be6eff7c499c6c1d36b50ed",
+    "0c64711db1207e31a70cf3f558ccbd7d",
+    "5f280df40970eec504bb4f08d421d69d",
+    "ad69a73e64b686d788b61e4a4804552e",
+    "a80e5ecef1febc455cb4df808d13f8ce"
+  ],
+  "p2_parent": "P2_PERT_L2_conn26_20261112_090539",
+  "p2b_parent": "P2b_PERT_L2_conn26_20261112_100720",
+  "n_perturbations": 50,
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3P_L2_20261112_103235\\P3P_L2_patients_20261112_103235.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3P_L2_20261112_103235\\P3P_L2_components_20261112_103235.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3P_L2_20261112_103235\\P3P_L2_cohort_20261112_103235.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3P_L2_20261112_103235\\P3P_L2_summary_20261112_103235.txt",
+    "f4e51cec7505d3622bccb60344772d21",
+    "9df0305d6dfb6e747ccfe7f285838763",
+    "5d737dce79192bb0cefa9ab25823f4c3",
+    "9f91f4ff5c3ed7ce7ae57fba92c0828d"
+  ],
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "runtime_s": 1412,
+  "status": "COMPLETE"
+}

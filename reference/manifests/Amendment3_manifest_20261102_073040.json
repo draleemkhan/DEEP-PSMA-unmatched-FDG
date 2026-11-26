@@ -1,0 +1,51 @@
+{
+  "step": "Amendment 3 numerical stage (provisional; visual veto pending)",
+  "run": "20261102_073040",
+  "script": "D:\\DEEP PSMA\\PAPER3_Discordance\\02_code\\Amendment3_regional_rigid.py",
+  "script_MD5": "b21a405145526d56a59bb5950ef53acf",
+  "inputs": {
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Audit1C_e_per_patient_20261031_141128.csv": "c66da788a6c73737163b4c09ed76f494"
+  },
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Amendment3_fit_20261102_073040.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Amendment3_transforms_20261102_073040.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\Amendment3_summary_20261102_073040.csv"
+  ],
+  "parameters": {
+    "TRIM": 0.8,
+    "MAX_ITER": 300,
+    "TOL_MM": 0.01,
+    "TOL_DEG": 0.01,
+    "FOV_MARGIN": 10.0,
+    "MIN_POINTS": 2000,
+    "MIN_SKULL_SPAN": 60.0,
+    "CAPS": {
+      "head": [
+        20.0,
+        50.0
+      ],
+      "pelvis": [
+        10.0,
+        20.0
+      ]
+    },
+    "MIN_IMPROVE": 1.0,
+    "SURF_WORSE": 0.5,
+    "N_BOOT": 200,
+    "SEED": 20261101,
+    "MAX_PTS": 4000,
+    "FEMHEAD_MM": 40.0,
+    "SAFETY": [
+      0.1,
+      2.0
+    ]
+  },
+  "runtime_s": 21346,
+  "software": {
+    "python": "3.11.15 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:12:53) [MSC v.1942 64 bit (AMD64)]",
+    "numpy": "2.4.6",
+    "pandas": "3.1.0",
+    "SimpleITK": "2.5.6",
+    "platform": "Windows-10-10.0.26200-SP0"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "stage": "P3S sensitivity S3c (connectivity 26, scenario S3c, eligibility rule A)",
+  "run": "20261112_060928",
+  "script": "P3_matching_classification_v1_8.m",
+  "script_md5": "e623507581e38e70acf4b64b26262018",
+  "inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_components_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_patients_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_components_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_consolidated_LOCKED_20261111.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_S3_implementation_clarification_20261112.md",
+    "ffafbc7917e1b595eadacafab247fe88",
+    "f9b5b5908e523d1122547ef07d5c0afd",
+    "ac0048cfe059c714b3c293fbe7e88279",
+    "2f88309e1be6eff7c499c6c1d36b50ed",
+    "0c64711db1207e31a70cf3f558ccbd7d",
+    "513196d78278107851fcd4e70cdea376"
+  ],
+  "gate_inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_conn26_20261111_235603\\P2_manifest_20261111_235603.json",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_conn26_20261111_235603\\P2_components_20261111_235603.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2b_conn26_20261112_000903\\P2b_manifest_20261112_000903.json",
+    "939992930865f6c6a18498a751f366e8",
+    "9a649e60c49dafde2e4b3d1b1e35fa3c",
+    "4320cad089bca8eecb128b9df5efd972"
+  ],
+  "partition_inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_S3c_conn26_20261112_051542\\P2_manifest_20261112_051542.json",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_S3c_conn26_20261112_051542\\P2_components_20261112_051542.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2b_S3c_conn26_20261112_051734\\P2b_manifest_20261112_051734.json",
+    "a3db8939bad5b5ee84fdf1491d2ed317",
+    "fdd0b1c7b4927510dfb03ef536ed2064",
+    "1d6d7f210b27391aaf731804263417b3"
+  ],
+  "gate": "components 3838/3838, patients 100/100; identity 1; status+cause identical 1; final category identical 1; max |d| difference 3.4e-13 mm; max patient-table difference 4.1e-12",
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_S3c_20261112_060928\\P3S_S3c_components_20261112_060928.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_S3c_20261112_060928\\P3S_S3c_patients_20261112_060928.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3S_S3c_20261112_060928\\P3S_gate_20261112_060928.txt",
+    "5fbb1c8cc181fbee9fb6aa5df93cc7be",
+    "2a04a5137435fd18ff086711e43d921e",
+    "00452bfdff95c4701e76db9ff927f6fd"
+  ],
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "function_paths": {
+    "knnsearch": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\knnsearch.m",
+    "createns": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\createns.m",
+    "rangesearch": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\rangesearch.m",
+    "bwconncomp": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\images\\bwconncomp.m",
+    "labelmatrix": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\images\\labelmatrix.m",
+    "niftiread": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\iptformats\\niftiread.m",
+    "niftiinfo": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\iptformats\\niftiinfo.m",
+    "prctile": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\matlab\\datafun\\prctile.m"
+  },
+  "tolerance": 1E-9,
+  "runtime_s": 27,
+  "status": "COMPLETE"
+}

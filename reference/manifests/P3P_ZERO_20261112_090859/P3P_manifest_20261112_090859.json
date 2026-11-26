@@ -1,0 +1,31 @@
+{
+  "stage": "P3P zero-perturbation gate",
+  "run": "20261112_090859",
+  "script": "P3_matching_classification_v1_13.m",
+  "script_md5": "6e79a8869646765dec628b5386342093",
+  "inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_components_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_patients_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_components_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_consolidated_LOCKED_20261111.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_perturbation_implementation_clarification_20261112.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_PERTZERO_conn26_20261112_090427\\P2_manifest_20261112_090427.json",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2b_PERTZERO_conn26_20261112_090804\\P2b_manifest_20261112_090804.json",
+    "ffafbc7917e1b595eadacafab247fe88",
+    "f9b5b5908e523d1122547ef07d5c0afd",
+    "ac0048cfe059c714b3c293fbe7e88279",
+    "2f88309e1be6eff7c499c6c1d36b50ed",
+    "0c64711db1207e31a70cf3f558ccbd7d",
+    "5f280df40970eec504bb4f08d421d69d",
+    "ab67e7ec82561580ebbd6e3da573b7be",
+    "6b3345d67d13c983dcf8d2d1f9e31abe"
+  ],
+  "gate": "components 3838/3838, patients 100/100; identity 1; status+cause identical 1; final category identical 1; max |d| difference 3.4e-13 mm; max patient-table difference 4.1e-12",
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3P_ZERO_20261112_090859\\P3P_zero_gate_20261112_090859.txt",
+    "00452bfdff95c4701e76db9ff927f6fd"
+  ],
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "status": "COMPLETE"
+}

@@ -1,0 +1,49 @@
+{
+  "stage": "ST1A / ST1B association of organ displacement with correspondence status (exploratory)",
+  "run": "20261112_080558",
+  "script": "ST1_association_v1_0.m",
+  "script_md5": "9bc43eb931b8bd1743faf6e93a2d0c6f",
+  "inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\O1_organ_displacement_20261111_232613.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_components_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\ST2a_20261112_072150\\ST2a_manifest_20261112_072150.json",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\ST2a_20261112_072150\\ST2a_components_20261112_072150.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_soft_tissue_ST_spec_LOCKED_20261111.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_ST1_implementation_clarification_20261112.md",
+    "daaae3134932b6267807a128cb8f85dd",
+    "ac0048cfe059c714b3c293fbe7e88279",
+    "2f88309e1be6eff7c499c6c1d36b50ed",
+    "bca65313ea0d550286fbf9c38bcfc33b",
+    "a2fbe377c4081a64de98eec2b6b5f533",
+    "055199c4fd5d46039dcc65b6ab4f2416",
+    "1021a7266020138fc7d0e13b2b4af6a8"
+  ],
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\ST1_20261112_080558\\ST1A_correlations_20261112_080558.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\ST1_20261112_080558\\ST1A_patient_summary_20261112_080558.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\ST1_20261112_080558\\ST1B_components_20261112_080558.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\ST1_20261112_080558\\ST1B_descriptive_20261112_080558.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\ST1_20261112_080558\\ST1B_model_20261112_080558.json",
+    "62ef6ada4cdaf325e91fde4ec88c8107",
+    "a7ec13229f5bc67634389dfb0f4bda57",
+    "74389cb5152884b526c9142f65829b27",
+    "97a5476d09732a611ef3f14051c52a94",
+    "c1bc6ccdce77e621f0766e5abb9cf3f2"
+  ],
+  "seeds": {
+    "ST1A": 2.0261111E+7,
+    "ST1B": 2.0261112E+7
+  },
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "function_paths": {
+    "corr": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\corr.m",
+    "fitglm": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\classreg\\fitglm.m",
+    "prctile": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\matlab\\datafun\\prctile.m",
+    "tiedrank": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\shared\\statslib\\tiedrank.m",
+    "randi": "built-in (C:\\Program Files\\MATLAB\\R2025a\\toolbox\\matlab\\randfun\\randi)",
+    "categorical": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\matlab\\datatypes\\categorical\\@categorical\\categorical.m"
+  },
+  "runtime_s": 3,
+  "status": "COMPLETE"
+}

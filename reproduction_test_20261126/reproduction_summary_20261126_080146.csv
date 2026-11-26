@@ -1,0 +1,3 @@
+order,run,script,result,seconds,gating_pass,gating_total,info_diff,manifests_restored,note
+8,A3_visualQC_second_reader_20261109,A3_second_reader_comparison.py,PASS,1,3,3,0,0,
+9,Trunk_QC_unblinded_20261111,Trunk_QC_unblinding_decode.py,PASS,1,1,1,0,0,

@@ -1,0 +1,122 @@
+{
+  "script": "FIG_paper3_figures_v1_1.m",
+  "script_md5": "01ef75e947a3cc74b4bb0af8f035feb4",
+  "matlab_version": "25.1.0.2943329 (R2025a)",
+  "run_time": "2026-11-25 12:39:03",
+  "input": {
+    "file": "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "md5": "2f88309e1be6eff7c499c6c1d36b50ed"
+  },
+  "self_tests": [
+    {
+      "name": "n_patients",
+      "value": 100,
+      "expected": 100,
+      "pass": true
+    },
+    {
+      "name": "median_UFVF_pct_2dp",
+      "value": 0.13,
+      "expected": 0.13,
+      "pass": true
+    },
+    {
+      "name": "median_upper_pct_2dp",
+      "value": 0.27,
+      "expected": 0.27,
+      "pass": true
+    },
+    {
+      "name": "patients_UFVF_gt0",
+      "value": 58,
+      "expected": 58,
+      "pass": true
+    },
+    {
+      "name": "patients_UFVF_gt1pct",
+      "value": 23,
+      "expected": 23,
+      "pass": true
+    },
+    {
+      "name": "patients_UFVF_gt5pct",
+      "value": 2,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "name": "patients_UFVF_gt10pct",
+      "value": 1,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "name": "cohort_VU_mL_1dp",
+      "value": 144.9,
+      "expected": 144.9,
+      "pass": true
+    },
+    {
+      "name": "cohort_VFDG_mL_1dp",
+      "value": 23917.2,
+      "expected": 23917.2,
+      "pass": true
+    },
+    {
+      "name": "cohort_VI_registration_1dp",
+      "value": 457.8,
+      "expected": 457.8,
+      "pass": true
+    }
+  ],
+  "outputs": [
+    {
+      "figure": "Fig1",
+      "tif": "Fig1.tif",
+      "tif_md5": "e70e8f5b66af47c1d27293bda45ff3da",
+      "tif_px": [
+        8231,
+        7568
+      ],
+      "tif_dpi": 1200,
+      "tif_colortype": "grayscale",
+      "tif_width_mm": 174.22283333333334,
+      "eps": "Fig1.eps",
+      "eps_md5": "a0a591af143218f7f8202e3956d0a324",
+      "pdf": "Fig1.pdf",
+      "pdf_md5": "06f64caf85ef17526e1a0bfd77cb8dbf"
+    },
+    {
+      "figure": "Fig2",
+      "tif": "Fig2.tif",
+      "tif_md5": "e7a4afa62141ce22cb333c5bcc70543f",
+      "tif_px": [
+        8231,
+        3780
+      ],
+      "tif_dpi": 1200,
+      "tif_colortype": "grayscale",
+      "tif_width_mm": 174.22283333333334,
+      "eps": "Fig2.eps",
+      "eps_md5": "c29d38cbf1fb5a7ebdcdde659b4813de",
+      "pdf": "Fig2.pdf",
+      "pdf_md5": "5d4fac9d04ca27c0d900d480e9f1d8fa"
+    },
+    {
+      "figure": "Fig3",
+      "tif": "Fig3.tif",
+      "tif_md5": "ab36d24f14c003f5c03eea2ea5458290",
+      "tif_px": [
+        8231,
+        5681
+      ],
+      "tif_dpi": 1200,
+      "tif_colortype": "grayscale",
+      "tif_width_mm": 174.22283333333334,
+      "eps": "Fig3.eps",
+      "eps_md5": "5504fbb37a9599e2355f046b543f4166",
+      "pdf": "Fig3.pdf",
+      "pdf_md5": "b2306ae641b785a17f2795655e53639b"
+    }
+  ]
+}

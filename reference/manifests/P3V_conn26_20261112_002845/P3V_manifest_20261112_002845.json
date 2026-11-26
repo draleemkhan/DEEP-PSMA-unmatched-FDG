@@ -1,0 +1,36 @@
+{
+  "stage": "P3V voxel-level sensitivity (SAP 8.4)",
+  "mode": "FULL",
+  "run": "20261112_002845",
+  "script": "P3V_voxel_level_v1_0.m",
+  "script_md5": "4f545711bbc42704955c82adf7df46b6",
+  "inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_components_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_patients_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2b_conn26_20261112_000903\\P2b_manifest_20261112_000903.json",
+    "ac0048cfe059c714b3c293fbe7e88279",
+    "2f88309e1be6eff7c499c6c1d36b50ed",
+    "f9b5b5908e523d1122547ef07d5c0afd",
+    "4320cad089bca8eecb128b9df5efd972"
+  ],
+  "p2b_dir": "P2b_conn26_20261112_000903",
+  "n_patients": 100,
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3V_conn26_20261112_002845\\P3V_components_20261112_002845.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3V_conn26_20261112_002845\\P3V_patients_20261112_002845.csv",
+    "cb00f0285c33d412e6f62400a35fa66d",
+    "8633d8697ac8453d022a02f6cd15ac71"
+  ],
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "function_paths": {
+    "knnsearch": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\knnsearch.m",
+    "createns": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\createns.m",
+    "niftiread": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\iptformats\\niftiread.m",
+    "niftiinfo": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\iptformats\\niftiinfo.m",
+    "prctile": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\matlab\\datafun\\prctile.m"
+  },
+  "tolerance": 1E-9,
+  "runtime_s": 11,
+  "status": "COMPLETE"
+}

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the DEEP-PSMA dataset."
+title: "Spatially unmatched FDG tumour burden in mCRPC (DEEP-PSMA): analysis code"
+version: 1.0.0
+date-released: "2026-11-30"   # update on release
+license: PolyForm-Noncommercial-1.0.0
+doi: "10.5281/zenodo.XXXXXXX"   # Zenodo DOI to be inserted
+repository-code: "https://github.com/OWNER/REPOSITORY"   # to be inserted
+authors:
+  - family-names: Khan
+    given-names: Muhammad Aleem
+    orcid: "https://orcid.org/0000-0001-5576-0304"
+    affiliation: "Department of Nuclear Medicine, Ibn Sina Hospital, Kuwait City, Kuwait"
+  - family-names: Ali
+    given-names: Muhammad Basim
+    affiliation: "Department of Biomedical Engineering, Air University, Islamabad, Pakistan"
+  - family-names: Fatima
+    given-names: Musfirah
+    affiliation: "International Islamic Medical College, Rawalpindi, Pakistan"
+references:
+  - type: dataset
+    title: "A repository of annotated PSMA and FDG PET/CT images for algorithm development in staging of mCRPC for treament with 177Lu-PSMA therapy"
+    authors:
+      - family-names: Jackson
+        given-names: Price
+      - family-names: Hofman
+        given-names: Michael
+      - family-names: Buteau
+        given-names: James Patrick
+      - family-names: McIntosh
+        given-names: Lachlan
+      - family-names: Sun
+        given-names: Yu
+    version: v1
+    doi: "10.5281/zenodo.15281784"
+    license: CC-BY-NC-4.0

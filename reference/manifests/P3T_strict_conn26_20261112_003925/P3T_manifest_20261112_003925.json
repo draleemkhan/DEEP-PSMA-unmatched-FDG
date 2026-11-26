@@ -1,0 +1,49 @@
+{
+  "stage": "P3T tau sensitivity (matching tolerance only; Option (a))",
+  "tau_mode": "strict",
+  "run": "20261112_003925",
+  "script": "P3_matching_classification_v1_5.m",
+  "script_md5": "0e27cdc0daa5b6060363f8e11db907be",
+  "inputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_components_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P1_20261111_233936\\P1_patients_20261111_233936.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2_conn26_20261111_235603\\P2_components_20261111_235603.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_components_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3_conn26_20261112_001915\\P3_patients_20261112_001915.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P2b_conn26_20261112_000903\\P2b_manifest_20261112_000903.json",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_consolidated_LOCKED_20261111.md",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\00_protocol\\StepSAP_tau_sensitivity_implementation_clarification_20261112.md",
+    "ffafbc7917e1b595eadacafab247fe88",
+    "f9b5b5908e523d1122547ef07d5c0afd",
+    "9a649e60c49dafde2e4b3d1b1e35fa3c",
+    "ac0048cfe059c714b3c293fbe7e88279",
+    "2f88309e1be6eff7c499c6c1d36b50ed",
+    "4320cad089bca8eecb128b9df5efd972",
+    "0c64711db1207e31a70cf3f558ccbd7d",
+    "f78a14882975a2f1bef79adcba5d1618"
+  ],
+  "p2b_dir": "P2b_conn26_20261112_000903",
+  "gate": "components 3838/3838, patients 100/100; identity 1; status+cause identical 1; final category identical 1; max |d| difference 3.4e-13 mm; max patient-table difference 4.1e-12",
+  "outputs": [
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3T_strict_conn26_20261112_003925\\P3T_strict_components_20261112_003925.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3T_strict_conn26_20261112_003925\\P3T_strict_patients_20261112_003925.csv",
+    "D:\\DEEP PSMA\\PAPER3_Discordance\\06_output\\P3T_strict_conn26_20261112_003925\\P3T_gate_20261112_003925.txt",
+    "866b3bdfc62c34049f44039098875a57",
+    "10cbd377031066e715c5bc3092c3e1ec",
+    "00452bfdff95c4701e76db9ff927f6fd"
+  ],
+  "matlab": "25.1.0.2943329 (R2025a)",
+  "function_paths": {
+    "knnsearch": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\knnsearch.m",
+    "createns": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\createns.m",
+    "rangesearch": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\stats\\stats\\rangesearch.m",
+    "bwconncomp": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\images\\bwconncomp.m",
+    "labelmatrix": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\images\\labelmatrix.m",
+    "niftiread": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\iptformats\\niftiread.m",
+    "niftiinfo": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\images\\iptformats\\niftiinfo.m",
+    "prctile": "C:\\Program Files\\MATLAB\\R2025a\\toolbox\\matlab\\datafun\\prctile.m"
+  },
+  "tolerance": 1E-9,
+  "runtime_s": 27,
+  "status": "COMPLETE"
+}

@@ -1,0 +1,17 @@
+{
+ "spec": "Trunk_skeletal_QC_spec_LOCKED_20261109.md",
+ "spec_md5": "0151f8d44bb11661daa4b04a203d4185",
+ "drawn": "2026-11-09 11:05 Asia/Kuwait (after spec lock, before any image)",
+ "method": "rng=numpy.random.default_rng(20261109); perm=rng.permutation(100) over sorted case IDs -> TR001..TR100; pages per patient from Audit 1C-f boundaries (C7T1/T12L1 UNDEFINED -> combined page); repeats: for type in (neck, thorax, abdomen): rng.choice(sorted(code+'_'+type for single-subregion pages of that type), 5, replace=False); ordr=rng.permutation(15); TR(101+k) = repeats[ordr[k]]",
+ "numpy": "2.5.3",
+ "inputs": {
+  "Amendment3_fit_20261102_073040.csv": "dc74686ed0b024d8524668f9b9e16c94",
+  "Audit1C_f_boundaries_substitution_log_20261031_164711.csv": "14b882a1ed3c0949c099a26291bc02c5"
+ },
+ "n_patients": 100,
+ "n_primary_pages": 299,
+ "n_repeats": 15,
+ "combined_pages": 1,
+ "key_file": "Trunk_QC_KEY_do_not_open_20261109.csv",
+ "key_md5": "4b2bc0868fb11378bd35ebe060bddbd0"
+}
