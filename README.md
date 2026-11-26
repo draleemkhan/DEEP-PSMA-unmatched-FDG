@@ -187,7 +187,10 @@ For permissions beyond these licences, please contact the corresponding author.
 
 ## Citation
 
-See `CITATION.cff`. Please also cite the DEEP-PSMA dataset. [Repository DOI to be added after release]
+See `CITATION.cff`. Please also cite the DEEP-PSMA dataset.
+
+- Version v1.0.0 (the code accompanying the manuscript): https://doi.org/10.5281/zenodo.24550580
+- All versions (always resolves to the latest): https://doi.org/10.5281/zenodo.24550579
 
 ## Contact
 

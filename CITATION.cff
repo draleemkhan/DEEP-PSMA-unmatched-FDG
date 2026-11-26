@@ -4,6 +4,7 @@ title: "Spatially unmatched FDG tumour burden in mCRPC (DEEP-PSMA): analysis cod
 version: 1.0.0
 date-released: "2026-11-26"
 license: PolyForm-Noncommercial-1.0.0
+doi: "10.5281/zenodo.24550579"
 repository-code: "https://github.com/draleemkhan/DEEP-PSMA-unmatched-FDG"
 authors:
   - family-names: Khan
